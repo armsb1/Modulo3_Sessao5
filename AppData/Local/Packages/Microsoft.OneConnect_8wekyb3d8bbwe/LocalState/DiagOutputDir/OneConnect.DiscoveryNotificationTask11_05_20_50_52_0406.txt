@@ -1,0 +1,12 @@
+11/05/2018 20:50:52.06	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (O sistema não conseguiu localizar o ficheiro especificado. (Excep_FromHResult 0x80070002))
+11/05/2018 20:50:52.06	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (O sistema não conseguiu localizar o ficheiro especificado. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+11/05/2018 20:50:52.06	Information	Discovery Notification Task started. Checking conditions...
+11/05/2018 20:50:52.06	Information	Unable to read file DataMartConfig.json. Exception: AggregateException_ctor_DefaultMessage (O sistema não conseguiu localizar o ficheiro especificado. (Excep_FromHResult 0x80070002))
+11/05/2018 20:50:52.06	Information	HResult: -2146233088
+Message: AggregateException_ctor_DefaultMessage (O sistema não conseguiu localizar o ficheiro especificado. (Excep_FromHResult 0x80070002))
+StackTrace:    at SharedLibrary!<BaseAddress>+0x4ed13d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration()
+11/05/2018 20:50:52.08	Information	No modem found. No Notification Shown.

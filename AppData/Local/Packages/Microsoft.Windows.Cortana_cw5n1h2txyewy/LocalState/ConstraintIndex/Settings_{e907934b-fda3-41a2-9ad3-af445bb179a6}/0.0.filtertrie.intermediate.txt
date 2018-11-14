@@ -1,0 +1,6254 @@
+0	0
+único ou duplo clique para abrir~
+ótico~
+íris~
+ícone~
+ícones que são apresentados na barra de tarefas~
+ícones do sistema~
+ícones do ambiente de trabalho~
+ícones de aplicações na barra de tarefas no modo de tablet~
+ícone ícones~
+ícone de lupa transparente~
+ênfase~
+é mostrada~
+é apresentado quando o difunde~
+é apresentado num ecrã de braille~
+áudio~
+áudio predefinido~
+áudio para vídeo~
+áudio mono~
+áudio do narrador~
+área de transferência~
+área de trabalho~
+área de trabalho do windows ink~
+área de trabalho do windows ink.~
+área de trabalho do ink~
+área de notificação da barra de tarefas~
+álbum~
+à corrente~
+à bateria~
+à barra de título~
+à apresentação de diapositivos do ecrã de bloqueio~
+~
+zoom~
+zoom mode~
+zoom level~
+zoom level,lupa~
+zoom da lupa~
+zoom ao aproximar dois dedos no touchpad~
+zone zones~
+zona zonas~
+your info~
+x~
+xbox~
+xbox one~
+xbox live~
+wwan~
+wupdater~
+wudo~
+writing~
+write~
+work~
+workspace~
+workplace~
+work hours~
+word~
+words~
+word echo~
+word (japonês)~
+wlan~
+with~
+wireless~
+window~
+windows~
+windowsupdate~
+windows10restarts~
+windows, uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+windows update~
+windows updates~
+windows update delivery optimization~
+windows to go~
+windows são apresentadas~
+windows sugerir as definições de facilidade de acesso~
+windows speech recognition~
+windows seja executada para melhorar os resultados da pesquisa e de início~
+windows security~
+windows search~
+windows powershell ao utilizar windows + menu x~
+windows parental~
+windows online personalization gallery~
+windows mobility center~
+windows mixed reality~
+windows insider~
+windows ink~
+windows ink.~
+windows hello~
+windows hd color~
+windows firewall~
+windows está ativado~
+windows efetua pesquisas~
+windows display language~
+windows defender~
+windows defender smartscreen~
+windows defender security center~
+windows defender offline~
+windows defender firewall~
+windows defender credential guard~
+windows defender antivirus~
+windows de 32 ou 64 bits~
+windows 8~
+windows 8.1~
+windows 7~
+windows 10 antivirus~
+windows + menu x~
+windows + c~
+window fill~
+win+g~
+wifi~
+wificalling~
+wifi calling~
+width~
+wi-fi~
+wheel wheels~
+web~
+website websites~
+website apps~
+weblinks~
+web to app link~
+web to app linking~
+web são mostradas em separadores~
+web site~
+web sites podem usar a lista de idiomas~
+web security~
+web protection~
+web para associar aplicações~
+web links~
+web language~
+web languages~
+web content control~
+web apps~
+wcg~
+warning~
+warnings~
+wallpaper~
+wallpaper wallpapers~
+vívido~
+vírus~
+vírus e ameaças~
+vírus de rede~
+vídeo~
+vídeos~
+vídeo vídeos~
+vídeo predefinido~
+vídeo hdr~
+vídeo em high dynamic range~
+vídeo com bateria~
+vários~
+vários monitores~
+vários ecrãs~
+vários dedos~
+várias~
+várias tarefas~
+vpn~
+vpn)~
+voz~
+vozes~
+voz, tinta digital e escrita~
+voz na windows mixed reality~
+voz do narrador~
+volume~
+volume mixer~
+volume do sistema~
+volume de outras aplicações quando o narrador está a falar~
+volume da voz do narrador~
+volume da aplicação~
+voltar ao windows 8~
+voltar ao windows 8.1~
+voltar ao windows 7~
+voltar a uma compilação anterior~
+voice~
+voices~
+vivid~
+visão~
+visão reduzida~
+visão da facilidade de acesso~
+visual~
+visuals~
+visualização~
+visualização visualizações~
+visualização ou a velocidade do ponteiro do rato~
+visualização de tipos de letra e definições relacionadas~
+visualização de acessibilidade~
+visualizar o ambiente de trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+visualizar iniciações de voz~
+visualizador de fotografias predefinido~
+visual visuals~
+visual visuais~
+visual quando toca no ecrã~
+visual para notificações de áudio~
+visual da windows mixed reality~
+visual da caneta~
+visuais~
+vista~
+vista da lupa~
+visor~
+visor visores~
+vision~
+visible alerts~
+virus~
+viruses~
+virus protection~
+virtual~
+virtualization-based security~
+virtual desktop~
+virtuais~
+virtuais (vpn)~
+view~
+video~
+video videos~
+video settings~
+video quality~
+video playback~
+video on battery~
+vga~
+vez~
+vez para atalhos de teclado~
+verão~
+vertical~
+versões anteriores do windows~
+versão do windows de 32 ou 64 bits~
+vermelho ondulante~
+verificação ortográfica~
+verificar~
+verificar verificações~
+verificar se tem uma versão do windows de 32 ou 64 bits~
+verificar se o windows está ativado~
+verificar o estado do teclado~
+verificar o estado de segurança~
+verificar o estado da firewall~
+verificar microfone~
+verificar estado da rede~
+verificar e resolver problemas de conectividade multijogador xbox live~
+verdadeiro~
+verbosity~
+verbosidade~
+ver utilização dos recursos de sistema no gestor de tarefas~
+ver todos os relatórios de problemas~
+ver soluções para problemas~
+ver serviços locais~
+ver registos de eventos~
+ver os processos que iniciam automaticamente quando inicia o windows~
+ver os formatos de data e hora atuais~
+ver organização ou grupo de trabalho para este pc~
+ver o nome do pc~
+ver o histórico de atualizações~
+ver mensagens recentes sobre o computador~
+ver mensagens arquivadas~
+ver informações do processador~
+ver informações de caneta e toque~
+ver informações da ram~
+ver informações básicas sobre o computador~
+ver informações avançadas do ecrã~
+ver histórico de funcionalidades opcionais~
+ver histórico de fiabilidade~
+ver estado e tarefas da rede~
+ver e utilizar~
+ver definições de sistema avançadas~
+ver definições de acessibilidade atuais~
+ver conteúdo do dicionário de utilizador local~
+ver computadores e dispositivos de rede~
+ver a id do produto~
+velocity~
+velocidade~
+velocidade máxima do ponteiro do rato por teclado~
+velocidade do ponteiro do rato~
+velocidade do ponteiro do rato por teclado~
+velocidade do cursor ao utilizar o touchpad~
+velocidade de intermitência do cursor~
+velocidade da voz do narrador~
+velocidade da rede~
+vbs~
+variáveis de ambiente para a sua conta~
+variáveis de ambiente do sistema~
+valor de calibragem personalizado para a windows mixed reality~
+utilizo a minha caneta~
+utilizem este pc~
+utilize os botões da barra de tarefas pequenos~
+utilize a cortana premindo a tecla do logótipo do windows + c~
+utilização~
+utilização offline~
+utilização dos recursos de sistema no gestor de tarefas~
+utilização de dados~
+utilizar~
+utilizar windows + menu x~
+utilizar o windows~
+utilizar o touchpad~
+utilizar o seu id de publicidade~
+utilizar o reconhecimento de voz na windows mixed reality~
+utilizar o rato~
+utilizar o rato por teclado apenas quando num lock está ativado~
+utilizar o ambiente de trabalho remoto~
+utilizar leitor de ecrã~
+utilizar início em ecrã inteiro~
+utilizar funcionalidades de programador~
+utilizar descrições de áudio para vídeo~
+utilizar definições do narrador antes de iniciar sessão~
+utilizar com a windows mixed reality~
+utilizar as teclas ctrl e shift para ajustar a velocidade do ponteiro do rato por teclado~
+utilizar as pausas de entoação do narrador~
+utilizar ambientes de trabalho virtuais~
+utilizar a lupa~
+utilizar a indicação de toque maior~
+utilizar a cortana dizendo "olá cortana"~
+utilizando tocar e enviar~
+utilizando o teclado~
+utilizando a voz~
+utilizando a reprodução automática para todos os suportes de dados e dispositivos~
+utilizando a lupa~
+utilizador~
+utilizadores~
+utilizadores que podem utilizar o ambiente de trabalho remoto~
+utilizadores e grupos locais~
+utilizador utilizadores~
+utilizador utilizadores pessoas~
+utilizador local~
+utilizadas em início~
+utiliza para ler o contexto de botões e outros controlos~
+utiliza ambientes de trabalho virtuais~
+utiliza a mão direita ou a mão esquerda~
+user~
+users~
+user users~
+user users people~
+user information~
+use a câmara para criar uma imagem de conta~
+usb~
+usar uma aplicação para criar uma imagem de conta~
+usar maiúsculas quando fizer duplo toque na tecla shift~
+usar configuração de proxy automática~
+usar apenas maiúsculas quando faço duplo toque na tecla shift~
+usar a lista de idiomas~
+usage~
+ups~
+upper~
+uppercase~
+upgrade~
+updating~
+update~
+updates were installed~
+updater~
+update updates~
+update history~
+update health~
+up-dates~
+unwanted software~
+unpair~
+unjoin~
+universal links~
+uninstall~
+uninstalls~
+unidade~
+unidades~
+unidade unidades~
+unidade de recuperação~
+underline~
+underlines~
+underline keyboard shortcuts~
+unblock~
+uma versão do windows de 32 ou 64 bits~
+uma unidade de recuperação~
+uma tecla de cada vez~
+uma tecla de cada vez para atalhos de teclado~
+uma sugestão de texto~
+uma pasta à apresentação de diapositivos do ecrã de bloqueio~
+uma palavra-passe por imagem~
+uma ligação de banda larga~
+uma janela, mostrar o que posso encaixar ao seu lado~
+uma janela, ajustá-la automaticamente para preencher o espaço livre disponível~
+uma janela encaixada, redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+uma imagem~
+uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+uma imagem de conta~
+uma funcionalidade opcional~
+uma frase com o teclado tátil~
+uma conta para acesso atribuído~
+uma compilação anterior~
+uma apresentação~
+uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+uma aplicação predefinida para cada tipo de ficheiro~
+uma aplicação predefinida para cada site~
+uma aplicação passar pela firewall do windows~
+uma aplicação para criar uma imagem de conta~
+uma aplicação para apresentar o estado detalhado~
+uma aplicação de mapa predefinida~
+uma aplicação de e-mail predefinida~
+um visualizador de fotografias predefinido~
+um valor de calibragem personalizado para a windows mixed reality~
+um tipo de ficheiro abra sempre num programa específico~
+um som quando as teclas são premidas~
+um som ao premir a tecla caps lock, num lock ou scroll lock~
+um relatório de estado de funcionamento do sistema~
+um rato~
+um programa a partir da rede~
+um problema~
+um ponto depois de fazer duplo toque na barra de espaço~
+um ponto de restauro~
+um pacote de aprovisionamento~
+um microfone~
+um microfone a utilizar com a windows mixed reality~
+um leitor de vídeo predefinido~
+um leitor de música predefinido~
+um iniciador iscsi~
+um idioma a este dispositivo~
+um fundo, apresentação de diapositivos ou cor sólida como modo de segundo plano~
+um ficheiro~
+um feed rss disponível num web site~
+um esquema de teclado ou input method editor~
+um esquema de energia~
+um espaço quando escolher uma sugestão de texto~
+um ecrã sem fios~
+um ecrã ligado~
+um ecrã de braille~
+um documento ou uma imagem~
+um disco de reposição de palavras-passe~
+um browser predefinido~
+um batimento de tecla~
+um atraso no touchpad~
+um atalho de teclado~
+um alerta visual para notificações de áudio~
+um alerta ao ligar as teclas presas, sonoras ou lentas com um atalho de teclado~
+um ajuste de imagem~
+ultra~
+uhd~
+udpate~
+uac~
+título~
+tátil~
+tátil são premidas quando o narrador está ligado~
+typo~
+typos~
+typo typos~
+typing~
+type~
+types~
+type types~
+two-finger~
+two-finger tap~
+two-finger scroll~
+two finger~
+two finger tap~
+two finger scroll~
+tv~
+tudo maior~
+tts~
+três dedos~
+três dedos no touchpad~
+trust~
+trusted~
+trusted platform module~
+truque~
+truques, dicas e sugestões sobre como utilizar o windows~
+true~
+truetype~
+trueplay~
+true-play~
+troubleshoot~
+troubleshooting~
+troubleshooter~
+troubleshooters~
+troubleshoot tpm~
+troubleshoot network~
+trouble shoot~
+trocar~
+tritanopia~
+tray~
+trash~
+transparência~
+transparência no windows~
+transparent~
+transparente~
+transparentes~
+transparency~
+transmitir~
+transmitir em fluxo~
+transmissões~
+transmissão~
+transmissão em fluxo~
+transmissão em fluxo de multimédia~
+transmissão de vídeo hdr~
+translúcido~
+translucidez~
+translucent~
+translucency~
+transferência~
+transferências~
+transferências automáticas de ficheiros~
+transferir~
+transferir mapas para utilização offline~
+transferir e instalar braille~
+transferir antivírus~
+transferidos~
+track~
+trackpad~
+trackpad on~
+trackpad ligado~
+trackpad delay~
+trackpad defaults~
+tracking~
+track pad~
+track pad on~
+track pad ligado~
+track pad defaults~
+trabalho~
+trabalho virtual~
+trabalho virtuais~
+trabalho remoto~
+trabalho remotos~
+trabalho para este pc~
+trabalho no fim da barra de tarefas~
+trabalho está este computador~
+trabalho do windows ink~
+trabalho do windows ink.~
+trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+tpm~
+tpm troubleshoot~
+touch~
+touchpad~
+touchpad quando estiver ligado um rato~
+touchpad on~
+touchpad ligado~
+touchpad e o comportamento do zoom~
+touchpad delay~
+touchpad defaults~
+touching~
+touch pad~
+touch pad on~
+touch pad ligado~
+touch pad defaults~
+tornar tudo maior~
+tornar o início, a barra de tarefas e o centro de ação transparentes~
+toque~
+toques~
+toques ou altere o atraso no touchpad~
+toque toques~
+toque quando utilizo a minha caneta~
+toque para clicar ao utilizar o touchpad~
+toque na tecla shift~
+toque na barra de espaço~
+toque maior~
+toque e arrastar no touchpad~
+toque duplo~
+tons~
+tons de cinzento~
+tons de cinzento invertidos~
+tons cinzentos~
+tons cinzentos invertidos~
+tone~
+tom~
+tom de voz do narrador~
+toggle~
+toggle keys~
+toggle beep~
+todos os utilizadores~
+todos os suportes de dados e dispositivos~
+todos os relatórios de problemas~
+todos os ecrãs~
+tocar~
+tocar e enviar~
+tocar com três dedos no touchpad~
+tocar com quatro dedos no touchpad~
+tocar com dois dedos~
+tocar com dois dedos no touchpad~
+toca ou arrasta três dedos no touchpad~
+toca ou arrasta quatro dedos no touchpad~
+toca no ecrã~
+toast~
+toasts~
+to speech~
+to go~
+tipo~
+tipos~
+tipos de letra~
+tipos de letra e definições relacionadas~
+tipos de ficheiros e protocolos abertos por cada aplicação~
+tipo tipos~
+tipo de tabela de saída de braille~
+tipo de tabela de entrada de braille~
+tipo de letra~
+tipo de letra das legendas~
+tipo de ficheiro~
+tipo de ficheiro abra sempre num programa específico~
+tip tips~
+tinta digital~
+tinta digital e o reconhecimento de escrita~
+tinta digital e escrita~
+timezone~
+timeout~
+timeline~
+time times~
+timbre~
+tile~
+tiles~
+three-finger~
+three finger~
+thickness~
+the~
+theme~
+themes~
+themepack~
+text~
+texto~
+texto, aplicações e outros itens~
+texto formatado~
+texto enquanto escrevo~
+texto enquanto escrevo no teclado físico~
+texto em voz~
+texto com o narrador~
+texto cleartype~
+texto ao utilizar a lupa~
+text to speech~
+text is blurry~
+text formatting~
+tethering~
+teste de velocidade~
+testar a sua internet~
+test your internet~
+terminar instalação~
+terceiros~
+temp~
+temporário~
+temporários~
+temporários da internet~
+temporary~
+tempo limite~
+tempo limite de notificação de braille~
+tema~
+temas~
+temas e definições relacionadas~
+tema de alto contraste~
+tem uma versão do windows de 32 ou 64 bits~
+telemóvel~
+telemóveis~
+telemóveis associados~
+telefónico~
+telefone e modem~
+tecla~
+teclas~
+teclas são premidas~
+teclas sonoras~
+teclas sonoras enquanto escrevo~
+teclas presas~
+teclas presas, sonoras ou lentas com um atalho de teclado~
+teclas enquanto escrevo~
+teclas do teclado tátil são premidas quando o narrador está ligado~
+teclas de análise~
+teclas de acesso~
+teclas de acesso nos menus, quando disponíveis~
+teclas de acesso fácil~
+teclas curtos ou repetidos~
+teclas ctrl e shift para ajustar a velocidade do ponteiro do rato por teclado~
+teclas com uma tecla de cada vez~
+teclado~
+teclados~
+teclado tátil~
+teclado tátil são premidas quando o narrador está ligado~
+teclado teclados~
+teclado ou input method editor~
+teclado no ecrã~
+teclado hardware~
+teclado físico~
+teclado de comando~
+teclado apenas quando num lock está ativado~
+tecla shift~
+tecla do narrador está bloqueada~
+tecla do logótipo do windows + c~
+tecla de cada vez~
+tecla de cada vez para atalhos de teclado~
+tecla de atalho inicie o narrador~
+tecla caps lock, num lock ou scroll lock~
+tecla acidentais repetidos~
+taxa~
+taxa de atualização~
+tasking~
+taskbar~
+task bar~
+tarefas~
+tarefas, no ecrã principal~
+tarefas, em ecrãs secundários~
+tarefas pequenos~
+tarefas no modo de tablet~
+tarefas no ecrã~
+tarefas em vários ecrãs~
+tarefas em todos os ecrãs~
+tarefas e o centro de ação transparentes~
+tarefas e no centro de ação~
+tarefas de manutenção recomendadas automaticamente~
+tarefas de arranque~
+tarefas da rede~
+tarefas ao utilizar ambientes de trabalho virtuais~
+tarefa de arranque~
+tap~
+taps~
+tap taps~
+tampa~
+tamanho~
+tamanhos~
+tamanhos dos discos~
+tamanho do texto, aplicações e outros itens~
+tamanho do ponteiro e do cursor~
+tamanho do ponteiro do rato~
+tamanho do disco~
+tamanho da lente da lupa~
+talk~
+talk to cortana~
+tack pad ligado~
+tab~
+tabuleiro~
+tabulação~
+table~
+tablet~
+tablet quando inicia sessão~
+tablet pc~
+tablet para executar determinadas tarefas~
+tables~
+tabela~
+tabelas~
+tabela de saída de braille~
+tabela de entrada de braille~
+tab quando utiliza ambientes de trabalho virtuais~
+sólida como modo de segundo plano~
+série~
+são sincronizadas neste pc~
+são premidas~
+são premidas quando o narrador está ligado~
+são mostradas~
+são mostradas em separadores~
+são apresentados na barra de tarefas~
+são apresentadas~
+são apresentadas em início~
+system~
+system systems~
+system focus~
+sync~
+synchronize~
+synced~
+sync syncs~
+sync settings~
+switch~
+suspensão~
+suspenso~
+suspenso quando ligado à corrente~
+suspenso estando ligado à bateria~
+suspender suspensão suspensões~
+support~
+suporte~
+suportes de dados e dispositivos~
+suportes de dados automaticamente~
+suporte do pc~
+suporte de aplicações de 16 bits~
+suplementos do browser~
+suggest~
+suggests~
+suggestion~
+suggestions~
+suggestion suggestions~
+suggest windows~
+suggest suggests~
+sugestões~
+sugestões, ocasionalmente, na linha cronológica~
+sugestões sobre como utilizar o windows~
+sugestões para a interação de controlos e botões~
+sugestões ocasionais em início~
+sugestões de texto enquanto escrevo~
+sugestões de texto enquanto escrevo no teclado físico~
+sugestões de coleção~
+sugestões de aplicações~
+sugestões de aplicações da área de trabalho do windows ink.~
+sugestões da aplicação~
+sugestões da aplicação os meus contactos~
+sugestão~
+sugestão sugestões~
+sugestão de texto~
+sugerir~
+sugerir windows~
+sugerir sugere~
+sugerir as definições de facilidade de acesso~
+sugere~
+sucede quando fecho a tampa~
+successfully installed~
+subtítulo~
+subtitles~
+substituir sons por ajudas visuais~
+substituir a linha de comandos pelo windows powershell ao utilizar windows + menu x~
+substituam o comportamento do botão de atalho~
+submissão de exemplos~
+sublinhar~
+sublinhar os atalhos do teclado~
+sublinhar os atalhos das teclas de acesso nos menus, quando disponíveis~
+sublinhados~
+sub-título~
+sub-títulos~
+sub-title~
+sub-titles~
+suavizar as margens das imagens e de texto ao utilizar a lupa~
+suave~
+suas palavras-passe neste pc~
+suas definições~
+suas definições de personalização~
+suas ações rápidas~
+sua voz~
+sua palavra-passe~
+sua imagem de conta~
+sua empresa faça a gestão do seu pc~
+sua cor de destaque~
+sua conta~
+style~
+stream~
+streams~
+streaming~
+stream hdr video~
+store~
+storage~
+storage provider~
+storage health~
+storage cleanup~
+stop~
+sticky~
+sticky keys~
+stereo~
+stereoscopic~
+status~
+statuses~
+start~
+startup~
+startup task~
+startup app~
+start starts~
+start narrator~
+start fresh~
+sso~
+srgb~
+squiggly~
+squiggled~
+spotlight~
+spell~
+spells~
+spelling~
+spellings~
+spelling spellings~
+spell spells~
+speed~
+speed test~
+speech~
+speech recognition~
+speaker~
+speakers~
+space~
+spaces~
+spacebar~
+space-bar~
+space spaces~
+sound~
+sounds~
+sound sounds~
+sons~
+sons por ajudas visuais~
+sons para notificações de pessoas favoritas~
+sons do sistema~
+sons das teclas enquanto escrevo~
+sons da aplicação~
+sono~
+sonoras~
+sonoras ou lentas com um atalho de teclado~
+sonoras enquanto escrevo~
+som~
+som sons~
+som quando as teclas são premidas~
+som predefinido~
+som avançado~
+som ao premir a tecla caps lock, num lock ou scroll lock~
+soluções para problemas~
+solução~
+solution~
+solid color~
+soft~
+software indesejável~
+software de segurança para pc~
+software antivírus~
+software antivírus gratuito~
+softer~
+sobre o seu pc~
+sobre o computador~
+sobre como utilizar o windows~
+sobre calendário lunar e feriados~
+snap~
+snapresize~
+snap fill~
+snap assist~
+smooth~
+smartscreen~
+smartscreen windows defender~
+small~
+slow~
+slow pc~
+slow computer~
+slideshow~
+slideshow slideshows~
+slide show~
+sleep~
+sleep sleeps~
+skydrive onedrive~
+size~
+sizes~
+site~
+sites podem usar a lista de idiomas~
+sistema~
+sistema sistemas~
+sistema no gestor de tarefas~
+sistema de ficheiros~
+sistema avançadas~
+single switch~
+sincronização~
+sincronização sincronizações~
+sincronizar~
+sincronizar sincronização sincronizações~
+sincronizar sincronização sincroniza~
+sincronizar o cursor do narrador e o foco do sistema~
+sincronizar explorador de ficheiros e outras definições~
+sincronizar as suas palavras-passe neste pc~
+sincronizar as suas definições~
+sincronizar as suas definições de personalização~
+sincronizar as preferências de facilidade de acesso~
+sincronizar as definições de idioma e teclado~
+sincronizado~
+sincronizadas neste pc~
+sim~
+sim pin~
+signin~
+signin security~
+signin protection~
+sign-in~
+sign-in sign~
+sign-in security~
+sign in security~
+show underlines~
+show shows~
+show shortcuts~
+show scrollbar~
+show scrollbars~
+show report~
+show health~
+show computer health~
+shortcut~
+shortcuts~
+shortcut button~
+shift~
+shift para ajustar a velocidade do ponteiro do rato por teclado~
+sharpen~
+sharing apps~
+sharing apps across devices~
+shared experiences~
+se~
+seus resultados de pesquisa~
+seu trabalho~
+seu telemóvel~
+seu pc~
+seu pc.~
+seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+seu lado~
+seu id de publicidade~
+seu ecrã de braille~
+set~
+setup~
+settings~
+setting settings~
+set sets~
+set plan~
+set limit~
+sessão~
+sessão por íris~
+sessão por impressão digital~
+sessão por face~
+sessão para todos os utilizadores~
+sessão com pin~
+serviços locais~
+serviço de aplicação remota~
+servidor servidores~
+servidor proxy~
+servidor proxy manual~
+server servers~
+serial~
+ser executadas em segundo plano~
+separador~
+separadores~
+separadores nas definições de aplicações~
+sentence~
+sentences~
+sentence sentences~
+sensível~
+sensor~
+sensor de dados~
+sense~
+send notification~
+sempre num programa específico~
+semelhantes~
+semelhantes na barra de tarefas, no ecrã principal~
+semelhantes na barra de tarefas, em ecrãs secundários~
+sem o teclado~
+sem o rato ou sem o teclado~
+sem fios~
+sem fios da xbox one~
+seleção múltipla~
+selecione um fundo, apresentação de diapositivos ou cor sólida como modo de segundo plano~
+selecione os ícones que são apresentados na barra de tarefas~
+selecione o que as janelas apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+selecione o que as janelas apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+selecione o destaque do windows, uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+selecionar vários~
+selecionar se utiliza a mão direita ou a mão esquerda~
+selecionar se o narrador reproduz ajudas de áudio~
+selecionar se o narrador lê carateres digitados~
+selecionar se a lupa acompanha o foco do teclado~
+selecionar os ícones que são apresentados na barra de tarefas~
+selecionar os utilizadores que podem utilizar o ambiente de trabalho remoto~
+selecionar dispositivo de saída de áudio do narrador~
+selecionar com o botão direito do rato~
+seja executada para melhorar os resultados da pesquisa e de início~
+seguro~
+segurança~
+segurança windows~
+segurança online~
+segurança no início de sessão~
+segurança no início de sessão avançada~
+segurança familiar~
+segurança familiar online~
+segurança e manutenção~
+segurança do windows defender~
+segurança do menor~
+segurança do menor online~
+segurança do hardware~
+segurança do dispositivo~
+segurança de menores~
+segurança de menores online~
+segurança de início de sessão~
+segurança de início de sessão avançada~
+segurança das crianças~
+segurança das crianças online~
+segurança da web~
+segurança da internet~
+segurança da família~
+segurança da chave de recuperação~
+segurança baseada em virtualização~
+segurança avançada ao iniciar sessão~
+segundos~
+segundo plano~
+segundo plano do ecrã de bloqueio~
+segundo ecrã~
+segui~
+seguir~
+seguir rato~
+seguir foco~
+segue o rato~
+security~
+security processor~
+security center~
+secure~
+secure boot~
+secundário~
+secundários~
+seconds~
+secondary~
+search~
+se utiliza a mão direita ou a mão esquerda~
+se tem uma versão do windows de 32 ou 64 bits~
+se pretende um atraso no touchpad~
+se pretende iniciar o modo de tablet quando inicia sessão~
+se para ajudar alguém~
+se os web sites podem usar a lista de idiomas~
+se o windows está ativado~
+se o narrador reproduz ajudas de áudio~
+se o narrador lê sugestões para a interação de controlos e botões~
+se o narrador lê palavras digitadas~
+se o narrador lê erros~
+se o narrador lê carateres digitados~
+se o narrador acompanha o foco do teclado~
+se o cursor do narrador segue o rato~
+se ligar ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+se existe um feed rss disponível num web site~
+se encontra~
+se as definições são sincronizadas neste pc~
+se as aplicações podem utilizar o seu id de publicidade~
+se altera~
+se abre e reconhece o jogo~
+se a tecla do narrador está bloqueada~
+se a lupa acompanha o ponto de inserção de texto~
+se a lupa acompanha o foco do teclado~
+se a lupa acompanha o foco do narrador~
+sdr~
+scroll~
+scrolling~
+scrollbar~
+scrollbars~
+scroll scrolls~
+scroll lock~
+scroll bar~
+screen~
+screen screens~
+screen reader~
+screen magnifier~
+screen dim~
+school~
+schedule~
+scheduled scan~
+schedule restart~
+scan~
+scanners~
+scanners e impressoras~
+scan scanner scanners scanning~
+scan offline~
+scan keys~
+scaling~
+scale~
+saída~
+saída de áudio do narrador~
+saída de som do narrador~
+saída de braille~
+saída da aplicação~
+saving~
+save~
+saver~
+save storage~
+save space~
+save battery when playing video~
+samsung~
+sample submission~
+same~
+sair~
+safe~
+safety~
+safesearch~
+rígido~
+rápido~
+rápidas~
+rápidas da microsoft~
+rádio~
+rtp~
+rss disponível num web site~
+rotação para a posição ligada/desligada~
+rotate~
+rosto rostos~
+rode o bloqueio de rotação para a posição ligada/desligada~
+roda~
+rodar~
+roda rodas~
+roda do rato~
+roam~
+roaming~
+roam roams~
+right~
+rights~
+rightclick~
+right-click~
+right handed~
+right click~
+reverse scrolling~
+rever o estado do computador e resolver problemas~
+retome o seu trabalho~
+retome as suas atividades~
+resume your work~
+resultados de pesquisa~
+resultados da pesquisa e de início~
+restrições de acesso~
+restrições de acesso do windows~
+restrições de acesso da microsoft~
+restore~
+restore restores~
+restore files~
+restore data~
+restauro~
+restauro de ficheiros~
+restaurar~
+restaurar restaurações~
+restaurar restaura~
+restaurar os ficheiros com o histórico de ficheiros~
+restaurar ficheiros~
+restaurar dados~
+restart~
+restart pending~
+restart options~
+restart now~
+ressalto~
+ressaltar~
+resposta visual quando toca no ecrã~
+resposta visual da caneta~
+resolver prolemas~
+resolver problemas~
+resolver problemas de tpm~
+resolver problemas de conectividade multijogador xbox live~
+resoluções de problemas~
+resolução do ecrã~
+resolução de problemas~
+resolução de problemas de tpm~
+resolução de problemas de rede~
+resize~
+resize windows~
+reset~
+requisitos de início de sessão~
+require~
+requerer~
+reprodução~
+reprodução de áudio~
+reprodução de vídeo~
+reprodução de som~
+reprodução automática~
+reprodução automática para todos os suportes de dados e dispositivos~
+reproduzir um problema~
+reproduzir teclas sonoras enquanto escrevo~
+reproduzir sons para notificações de pessoas favoritas~
+reproduzir sons das teclas enquanto escrevo~
+reproduzir cds ou outros suportes de dados automaticamente~
+reproduz ajudas de áudio~
+reposição de palavras-passe~
+reposição da rede~
+repor~
+repor políticas de segurança~
+repor este pc~
+repor as predefinições do touchpad~
+repita~
+repetição~
+repetir~
+repetidos~
+repeat~
+reparar problemas de rede~
+reorganizar~
+reorganizar múltiplos ecrãs~
+render~
+rename~
+remoções~
+remoção gratuita de vírus~
+remove~
+removes~
+remover~
+remover vírus~
+remover um pacote de aprovisionamento~
+remover remoções remove~
+remover remove remoção~
+remover programas~
+remover pacote~
+remover outras pessoas~
+remover ou gerir contas de e-mail~
+remover ou gerir contas de aplicações~
+remover ficheiros desnecessários~
+remover dispositivos~
+removed apps~
+remove virus~
+remove unnecessary files~
+remove removes~
+remove package~
+removable~
+remoto~
+remotos~
+remoto ao computador~
+remote~
+remotely open apps~
+remoteapp e ambientes de trabalho remotos~
+remote settings~
+remote device~
+remote desktop~
+remote desktop settings~
+remote app service~
+remote access~
+remota deste computador~
+relógio relógios~
+relatórios de problemas~
+relatório de estado de funcionamento~
+relatório de estado de funcionamento do sistema~
+relacionadas~
+rejeição~
+rejection~
+reinício~
+reinícios do windows 10~
+reinício personalizado~
+reinício pendente~
+reinício em espera~
+reinício automático~
+reinstall~
+reinstalação~
+reinstalar~
+reiniciar~
+reiniciar aplicação~
+reiniciar agora~
+reinicializar~
+regras de marcação~
+região~
+região e idioma~
+registo~
+registos de eventos~
+registo de comentários do narrador~
+registo de chamadas~
+register word (japonês)~
+refresh~
+refresh refreshes~
+refresh rate~
+reduzida~
+redimensiono uma janela encaixada, redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+redimensionar~
+redimensionar janelas~
+redimensionar encaixe~
+redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+rede~
+redes privadas virtuais (vpn)~
+rede móvel~
+rede da escola ou do trabalho~
+red squiggly~
+recycle~
+recyclebin~
+recursos de sistema no gestor de tarefas~
+recuperação~
+recuperação de ransomware~
+recuperar recuperações~
+recuperar recupera~
+recuperar ficheiros~
+recuperar dados~
+recovery~
+recover recovers~
+recover files~
+recover data~
+record~
+recording~
+reconhecimento~
+reconhecimento de voz~
+reconhecimento de voz na windows mixed reality~
+reconhecimento de voz do windows~
+reconhecimento de escrita~
+reconhecimento da escrita manual do seu pc.~
+reconhecer a sua voz~
+reconhece o jogo~
+recomeçar~
+recomendadas automaticamente~
+recognition~
+reciclar~
+reciclagem~
+recent~
+recente~
+recentes sobre o computador~
+recentemente em listas de atalhos em início ou na barra de tarefas~
+recentemente adicionadas em início~
+recebido utilizando tocar e enviar~
+receber um ficheiro~
+receber truques, dicas e sugestões sobre como utilizar o windows~
+rearrange~
+realçar~
+realçar realce~
+reality~
+realidade mista~
+realce~
+reader~
+reabrir aplicação~
+re-install~
+raw~
+rato~
+rato ratos~
+rato por teclado~
+rato por teclado apenas quando num lock está ativado~
+rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+rato ou sem o teclado~
+rato ligado~
+rato com o teclado~
+rato ao mover-se~
+rate~
+rapidez~
+rapidez de aceleração do ponteiro do rato por teclado~
+ransomware~
+ransomware recovery~
+ransomware protection~
+ram~
+ram existente no computador~
+radio~
+quiet~
+quiet hours~
+quick~
+quick scan~
+que um tipo de ficheiro abra sempre num programa específico~
+que são apresentados na barra de tarefas~
+que são apresentadas em início~
+que sucede quando fecho a tampa~
+que posso encaixar ao seu lado~
+que podem utilizar o ambiente de trabalho remoto~
+que podem ser executadas em segundo plano~
+que os membros da família utilizem este pc~
+que o narrador utiliza para ler o contexto de botões e outros controlos~
+que o narrador leia e interaja com o ecrã quando utilizar o rato~
+que o narrador fornece para botões e outros controlos~
+que o narrador fornece acerca do texto~
+que o narrador enfatize texto formatado~
+que o computador se encontra~
+que mostram notificações~
+que iniciam automaticamente quando inicia o windows~
+que grupo de trabalho está este computador~
+que estejam desfocadas~
+que as janelas apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+que as janelas apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+que as funcionalidades do windows são apresentadas~
+que as aplicações substituam o comportamento do botão de atalho~
+que aplicações estão a afetar a duração da bateria~
+que acontece quando toca ou arrasta três dedos no touchpad~
+que acontece quando toca ou arrasta quatro dedos no touchpad~
+que acontece quando o dispositivo ativa ou desativa o modo de tablet~
+que acontece quando arrasta quatro dedos no touchpad~
+que acontece ao tocar com três dedos no touchpad~
+que acontece ao tocar com quatro dedos no touchpad~
+que acontece ao arrastar três dedos no touchpad~
+que a tecla de atalho inicie o narrador~
+que a sua empresa faça a gestão do seu pc~
+que a cortana me consegue ouvir.~
+que a cortana consegue fazer, ver e utilizar~
+que a aplicação de controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+quatro dedos~
+quatro dedos no touchpad~
+quantos contactos mostrar na barra de tarefas~
+quantas teclas do teclado tátil são premidas quando o narrador está ligado~
+quando utilizo a minha caneta~
+quando utilizar o rato~
+quando utiliza ambientes de trabalho virtuais~
+quando toca ou arrasta três dedos no touchpad~
+quando toca ou arrasta quatro dedos no touchpad~
+quando toca no ecrã~
+quando redimensiono uma janela encaixada, redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+quando o pc estiver suspenso~
+quando o pc estiver suspenso quando ligado à corrente~
+quando o pc estiver suspenso estando ligado à bateria~
+quando o narrador está ligado~
+quando o narrador está a falar~
+quando o ecrã está desativado~
+quando o ecrã está bloqueado~
+quando o dispositivo ativa ou desativa o modo de tablet~
+quando o difunde~
+quando num lock está ativado~
+quando ligado~
+quando ligado à corrente~
+quando ligado à bateria~
+quando inicia sessão~
+quando inicia o windows~
+quando fizer duplo toque na tecla shift~
+quando fecho a tampa~
+quando faço duplo toque na tecla shift~
+quando estiver ligado um rato~
+quando escolher uma sugestão de texto~
+quando encaixo uma janela, mostrar o que posso encaixar ao seu lado~
+quando encaixo uma janela, ajustá-la automaticamente para preencher o espaço livre disponível~
+quando disponíveis~
+quando desligar o ecrã quando ligado~
+quando desligar o ecrã quando ligado à bateria~
+quando desativar o ecrã~
+quando as teclas são premidas~
+quando arrasta quatro dedos no touchpad~
+quando a iluminação se altera~
+qualidade visual da windows mixed reality~
+qualidade de vídeo~
+qualidade de reconhecimento da escrita manual do seu pc.~
+quaisquer janelas encaixadas adjacentes~
+pôr a primeira letra de cada frase em maiúsculas~
+páginas web são mostradas em separadores~
+publicidade~
+pré-visualização~
+pré-visualização de tipos de letra e definições relacionadas~
+pré-visualizar o ambiente de trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+proxy~
+proxy proxies~
+proxy manual~
+proxy de rede~
+proxy automática~
+provision~
+provisioning~
+provisionamento~
+protocolo~
+protocolos abertos por cada aplicação~
+protocolo protocolos~
+protocol protocols~
+proteção~
+proteção web~
+proteção online~
+proteção gratuita contra vírus~
+proteção do firmware~
+proteção de rede~
+proteção de início de sessão~
+proteção de ecrã~
+proteção de contas~
+proteção de aplicações~
+proteção da rede~
+proteção contra vírus~
+proteção contra vírus grátis~
+proteção contra vírus e ameaças~
+proteção contra ransomware~
+proteção ao iniciar sessão~
+protegidas~
+proteger~
+proteger protege~
+protection~
+protected~
+protected folder~
+protected folders~
+protect protects~
+protanopia~
+proporção~
+prompts~
+prompting~
+projeção~
+projetor~
+projetores~
+projetor projetores~
+projetar~
+projetar para este pc~
+projetar num segundo ecrã~
+project~
+projector~
+projectors~
+projector projectors~
+projection~
+projecting~
+program~
+programs~
+programa~
+programas~
+programas remoteapp e ambientes de trabalho remotos~
+programas predefinidos~
+programas concebidos para versões anteriores do windows~
+programador~
+programador programadores~
+programa windows insider~
+programa programas~
+programa específico~
+programa de atualização~
+programa a partir da rede~
+program programs~
+profundidade de cores~
+profundidade de bits~
+profissional~
+profissional ou escolar~
+profile profiles~
+produto~
+procura~
+procurar~
+procurar uma imagem de conta~
+procurar online~
+procurar offline~
+procurar no dispositivo~
+procurar atualizações~
+procurar atualizações do windows~
+procurar apenas no meu pc~
+processos que iniciam automaticamente quando inicia o windows~
+processador~
+processador de segurança~
+problem~
+problems~
+problema~
+problemas~
+problemas no teclado~
+problemas no dispositivo~
+problemas de reprodução de áudio~
+problemas de rede~
+problemas de memória do computador~
+problemas de gravação~
+problemas de ecrã azul~
+problemas de conectividade multijogador xbox live~
+problemas com o windows search~
+problemas com o computador~
+problemas com dispositivos~
+privilégios~
+privileges~
+private~
+privado~
+privados~
+privadas virtuais (vpn)~
+privacy~
+privacidade~
+privacidade para outros dispositivos~
+privacidade do sistema de ficheiros~
+privacidade do registo de chamadas~
+privacidade do microfone~
+privacidade do histórico de atividades~
+privacidade do feedback~
+privacidade do dispositivo~
+privacidade do dispositivo de monitorização ocular~
+privacidade do calendário~
+privacidade de voz, tinta digital e escrita~
+privacidade de tarefas~
+privacidade de rádio~
+privacidade de movimento~
+privacidade de mensagens~
+privacidade de informações de conta~
+privacidade de e-mail~
+privacidade de diagnóstico de aplicação~
+privacidade de contactos~
+privacidade da localização~
+privacidade da câmara~
+privacidade da cortana~
+privacidade da biblioteca de vídeos~
+privacidade da biblioteca de imagens~
+privacidade da biblioteca de documentos~
+print printer printers printing~
+principal~
+principal no rato~
+primeira letra de uma frase com o teclado tátil~
+primeira letra de cada frase em maiúsculas~
+primary~
+prevê~
+previsões~
+previsão~
+previsão previsões~
+preview~
+preview builds~
+prever~
+prever prevê~
+preto e branco~
+pretende um atraso no touchpad~
+pretende iniciar o modo de tablet quando inicia sessão~
+pretende captar o jogo através de capturas de ecrã e clipes de jogos~
+pretende abrir as ligações~
+press~
+pressed~
+presas~
+presas, sonoras ou lentas com um atalho de teclado~
+preparar para visão reduzida~
+preparar para capacidades de aprendizagem~
+preparar o computador para reconhecer a sua voz~
+preparado após reinício~
+premir~
+premir uma tecla de cada vez para atalhos de teclado~
+premir combinações de teclas com uma tecla de cada vez~
+premir alt+tab quando utiliza ambientes de trabalho virtuais~
+premir a tecla caps lock, num lock ou scroll lock~
+premindo a tecla do logótipo do windows + c~
+premido~
+premidas~
+premidas quando o narrador está ligado~
+preferências de facilidade de acesso~
+preencher~
+preencher snap~
+preencher o espaço livre disponível~
+preencher janela~
+predict~
+predicts~
+prediction~
+predictions~
+prediction predictions~
+predict predicts~
+predefinições do trackpad~
+predefinições do track pad~
+predefinições do touchpad~
+predefinições do touch pad~
+predefinições da reprodução automática~
+predefinições da aplicação~
+predefinição~
+predefinição predefinições~
+predefinido~
+predefinidos~
+predefinido do seu ecrã de braille~
+predefinida~
+predefinidas~
+predefinida para cada tipo de ficheiro~
+predefinida para cada site~
+predefinida para cada protocolo~
+ppp~
+powershell ao utilizar windows + menu x~
+poupar espaço~
+poupar bateria durante a reprodução de vídeo~
+poupar armazenamento~
+poupança poupar~
+poupança de bateria~
+pouco espaço~
+pouco armazenamento~
+posso encaixar ao seu lado~
+posição ligada/desligada~
+portrait~
+portal~
+portal do dispositivo~
+por íris~
+por toque~
+por toque quando utilizo a minha caneta~
+por teclado~
+por teclado apenas quando num lock está ativado~
+por impressão digital~
+por imagem~
+por face~
+por cada aplicação~
+por ajudas visuais~
+popups~
+pop-ups~
+ponto~
+pontos~
+ponto posntos~
+ponto final~
+ponto depois de fazer duplo toque na barra de espaço~
+ponto de restauro~
+ponto de inserção de texto~
+ponteiro~
+ponteiros~
+ponteiro e do cursor~
+ponteiro do rato~
+ponteiro do rato por teclado~
+ponteiro do rato com o teclado~
+ponteiro do rato ao mover-se~
+política~
+políticas~
+políticas de segurança~
+política políticas~
+política de grupo~
+policy~
+policy policies~
+policies~
+pointer~
+pointers~
+podem utilizar o seu id de publicidade~
+podem utilizar o ambiente de trabalho remoto~
+podem usar a lista de idiomas~
+podem ser executadas em segundo plano~
+play~
+playback~
+plan~
+plano~
+plano do ecrã de bloqueio~
+plano de serviços de dados~
+planear~
+places~
+placa de som~
+placa de som do narrador~
+pitch~
+pista~
+pistas~
+pistas de áudio~
+pista de áudio~
+pin~
+pin pins~
+pin do sim~
+picture~
+picture pictures~
+photo~
+photo photos~
+phone~
+phones~
+phone lock~
+phone linking~
+phishing~
+pessoas~
+pessoas favoritas~
+pesquisa~
+pesquisas~
+pesquisa, informação e privacidade da cortana~
+pesquisa segura~
+pesquisa para ficheiros e pastas~
+pesquisa no internet explorer~
+pesquisa e de início~
+personalize~
+personalize a barra de tarefas em vários ecrãs~
+personalização~
+personalization~
+personalizar~
+personalizar definições de ambiente de trabalho virtual~
+personalizar as barras de tarefas~
+personalizar a forma de agrupar janelas semelhantes~
+personalizado para a windows mixed reality~
+permitir remoto~
+permitir que os membros da família utilizem este pc~
+permitir que o narrador leia e interaja com o ecrã quando utilizar o rato~
+permitir que o narrador enfatize texto formatado~
+permitir que a tecla de atalho inicie o narrador~
+permitir que a sua empresa faça a gestão do seu pc~
+permitir que a aplicação de controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+permitir pop-ups~
+permitir o envio de convites de assistência remota deste computador~
+permitir notificações de pessoas favoritas~
+permitir cookies de terceiros~
+permitir apps~
+permitir aplicações~
+permitir acesso remoto ao computador~
+permitidas~
+permite que as aplicações substituam o comportamento do botão de atalho~
+permissões~
+permissões e o histórico da pesquisa~
+permissões e histórico~
+permissions~
+permissions and history~
+period~
+periods~
+period periods~
+performance~
+perfil~
+perfil perfis~
+perfil de cor atual~
+perdido~
+pequeno~
+pequenos~
+people~
+pen~
+pens~
+pending restart~
+pen shortcuts~
+pen remote~
+pen pens~
+pen clicker~
+pen button~
+pelo windows powershell ao utilizar windows + menu x~
+pela windows mixed reality~
+pela firewall do windows~
+pedómetro~
+pedometer~
+pedido~
+pedidos~
+pc~
+pc.~
+pc slow~
+pc security software~
+pc pcs~
+pc para jogos~
+pc lento~
+pc estiver suspenso~
+pc estiver suspenso quando ligado à corrente~
+pc estiver suspenso estando ligado à bateria~
+pc e ajudá-lo ou oferecer-se para ajudar alguém~
+país~
+países~
+país ou região~
+pause~
+pauses~
+pausas de entoação do narrador~
+pausar~
+patches~
+patch patches~
+paste~
+pasta~
+pastas~
+pastas que são apresentadas em início~
+pastas protegidas~
+pastas protegidas predefinidas~
+pastas ocultos~
+pastas de trabalho~
+pasta à apresentação de diapositivos do ecrã de bloqueio~
+pasta protegida~
+pasta pastas~
+pasta controlada~
+password~
+password passwords~
+passport~
+passos para reproduzir um problema~
+passe~
+passe por imagem~
+passe neste pc~
+passe da rede~
+passar pela firewall do windows~
+partições do disco rígido~
+partir de onde instalar aplicações~
+partir da rede~
+partilhar aplicações~
+partilhar aplicações entre dispositivos~
+partilhada~
+partilha de proximidade~
+partilha avançadas~
+partes do ecrã utilizando a lupa~
+parents~
+parental~
+parental control~
+parent parents~
+para~
+parar~
+parar utilizando a reprodução automática para todos os suportes de dados e dispositivos~
+para ícone de lupa transparente~
+para vídeo~
+para visão reduzida~
+para versões anteriores do windows~
+para utilização offline~
+para um ecrã ligado~
+para todos os utilizadores~
+para todos os suportes de dados e dispositivos~
+para se ligar ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+para reproduzir um problema~
+para reconhecer a sua voz~
+para problemas~
+para preencher o espaço livre disponível~
+para outros dispositivos~
+para otimizar o pc para jogos~
+para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+para notificações de áudio~
+para notificações de pessoas favoritas~
+para monitores, scanners e impressoras~
+para melhorar os resultados da pesquisa e de início~
+para ler o contexto de botões e outros controlos~
+para jogos~
+para introdução a caneta ou por toque~
+para guardar predefinidas~
+para ficheiros e pastas~
+para executar determinadas tarefas~
+para executar certas tarefas~
+para este pc~
+para definições de programador~
+para criar uma imagem de conta~
+para conteúdo recebido utilizando tocar e enviar~
+para clicar ao utilizar o touchpad~
+para cegos~
+para capacidades de aprendizagem~
+para cada tipo de ficheiro~
+para cada site~
+para cada protocolo~
+para botões e outros controlos~
+para atalhos de teclado~
+para as extremidades ou cantos do ecrã~
+para apresentar o estado rápido~
+para apresentar o estado detalhado~
+para ajustar a velocidade do ponteiro do rato por teclado~
+para ajudar alguém~
+para agrupar janelas semelhantes na barra de tarefas, no ecrã principal~
+para agrupar janelas semelhantes na barra de tarefas, em ecrãs secundários~
+para adultos dos seus resultados de pesquisa~
+para acesso atribuído~
+para abrir~
+para a windows mixed reality~
+para a sua conta~
+para a posição ligada/desligada~
+para a interação de controlos e botões~
+pan~
+panning~
+pan indicator~
+palm~
+palma da mão~
+palavra~
+palavras~
+palavras-passe~
+palavras-passe neste pc~
+palavras-passe da rede~
+palavras digitadas~
+palavra-passe~
+palavra-passe por imagem~
+palavra-passe palavras-passe~
+pais~
+pair~
+paired devices~
+pair pairs~
+painel de controlo~
+pai pais~
+page~
+padrão de fundo~
+padrão de fundo padrões de fundo~
+pacote~
+pacotes~
+pacote de aprovisionamento~
+pack~
+packs~
+packs de experiência local~
+package~
+packages~
+pack de experiência local~
+o~
+ouvir~
+ouvir.~
+ouvir um som quando as teclas são premidas~
+ouvir um som ao premir a tecla caps lock, num lock ou scroll lock~
+ouvir ler texto com o narrador~
+outside~
+outro~
+outros suportes de dados automaticamente~
+outros itens~
+outros dispositivos~
+outros controlos~
+outras pessoas~
+outras definições~
+outras definições de dispositivos~
+outras aplicações quando o narrador está a falar~
+output~
+ou uma imagem~
+ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+ou sem o teclado~
+ou scroll lock~
+ou repetidos~
+ou remover um pacote de aprovisionamento~
+ou remover programas~
+ou remover outras pessoas~
+ou remover dispositivos~
+ou região~
+ou receber um ficheiro~
+ou profissional~
+ou por toque~
+ou permitir pop-ups~
+ou permitir cookies de terceiros~
+ou parar utilizando a reprodução automática para todos os suportes de dados e dispositivos~
+ou outros suportes de dados automaticamente~
+ou oferecer-se para ajudar alguém~
+ou ocultar extensões de ficheiros~
+ou na barra de tarefas~
+ou lentas com um atalho de teclado~
+ou input method editor~
+ou identificar ecrãs~
+ou grupo de trabalho para este pc~
+ou gerir contas de e-mail~
+ou gerir contas de aplicações~
+ou ficheiros temporários~
+ou expandir para um ecrã ligado~
+ou escolar~
+ou duplo clique para abrir~
+ou do trabalho~
+ou desligar o teclado no ecrã~
+ou desligar o cursor da caneta~
+ou desligar o alto contraste~
+ou desligar cursor de braile intermitente~
+ou desligar a resposta visual da caneta~
+ou desligar 3d estereoscópico~
+ou desativar ícones do sistema~
+ou desativar reprodução automática~
+ou desativar o áudio mono~
+ou desativar o touchpad~
+ou desativar o narrador~
+ou desativar notificações de aplicações~
+ou desativar modo de avião~
+ou desativar hora de verão~
+ou desativar funcionalidades do windows~
+ou desativar filtros de cor~
+ou desativar dispositivos sem fios~
+ou desativar deteção de proxy automática~
+ou desativar cookies de sessão~
+ou desativar braille~
+ou desativar a proteção de ecrã~
+ou desativar a poupança de bateria~
+ou desativar a lupa~
+ou desativar a conclusão automática no internet explorer~
+ou desativar a apresentação de diapositivos do ecrã de bloqueio~
+ou desativa o modo de tablet~
+ou cor sólida como modo de segundo plano~
+ou cantos do ecrã~
+ou arrasta três dedos no touchpad~
+ou arrasta quatro dedos no touchpad~
+ou altere o atraso no touchpad~
+ou a velocidade do ponteiro do rato~
+ou a mão esquerda~
+ou 64 bits~
+otimização~
+otimização do desempenho na realidade mista~
+otimização da entrega~
+otimização da entrega do windows update~
+otimizar~
+otimizar visualização~
+otimizar para cegos~
+otimizar o pc para jogos~
+otimizar as unidades~
+other~
+osk~
+os ícones que são apresentados na barra de tarefas~
+os web sites podem usar a lista de idiomas~
+os utilizadores~
+os utilizadores que podem utilizar o ambiente de trabalho remoto~
+os toques ou altere o atraso no touchpad~
+os tipos de ficheiros e protocolos abertos por cada aplicação~
+os suportes de dados e dispositivos~
+os sons do sistema~
+os resultados da pesquisa e de início~
+os requisitos de início de sessão~
+os relatórios de problemas~
+os programas predefinidos~
+os processos que iniciam automaticamente quando inicia o windows~
+os problemas de memória do computador~
+os meus contactos~
+os membros da família utilizem este pc~
+os formatos de data e hora atuais~
+os ficheiros offline~
+os ficheiros com o histórico de ficheiros~
+os ecrãs~
+os comandos sem fios da xbox one~
+os botões da barra de tarefas pequenos~
+os batimentos de teclas curtos ou repetidos~
+os atalhos das teclas de acesso nos menus, quando disponíveis~
+os atalhos da caneta.~
+os altifalantes a utilizar com a windows mixed reality~
+ortográficos~
+ortográficos automaticamente~
+ortografia~
+ortografias~
+ortografia ortografias~
+origens de dados odbc~
+origens de dados odbc (64 bits)~
+origens de dados odbc (32 bits)~
+orientação do ecrã~
+organização ou grupo de trabalho para este pc~
+organização organizações~
+organization~
+organization organizations~
+order~
+ordem que o narrador utiliza para ler o contexto de botões e outros controlos~
+ordem de contexto~
+opções para agrupar janelas semelhantes na barra de tarefas, no ecrã principal~
+opções para agrupar janelas semelhantes na barra de tarefas, em ecrãs secundários~
+opções do explorador de ficheiros~
+opções de vídeo hdr~
+opções de vídeo com bateria~
+opções de transmissão em fluxo de multimédia~
+opções de reprodução de vídeo~
+opções de reprodução de som~
+opções de reinício~
+opções de recuperação~
+opções de pesquisa para ficheiros e pastas~
+opções de misturador de som~
+opções de início de sessão~
+opções de indexação~
+opções de idioma e teclado~
+opções de família~
+opções de arranque do windows to go~
+opções de arranque avançado~
+opções da internet~
+opções avançadas do windows update~
+opção opções~
+optional~
+option options~
+optimize~
+optimization~
+optical~
+opentype~
+open devices~
+opcional~
+opcionais~
+opaque~
+opaco~
+opacity~
+opacidade~
+online safe~
+online safety~
+online protection~
+online only~
+one~
+onedrive~
+ondulante~
+ondulado~
+onde instalar aplicações~
+on screen keyboard~
+omissão~
+olá~
+olá cortana~
+olá cortana"~
+olho~
+olhar~
+of~
+offline~
+offline scan~
+oferecer-se para ajudar alguém~
+odbc~
+odbc (64 bits)~
+odbc (32 bits)~
+ocupado~
+ocultos~
+oculta~
+ocultar~
+ocultar ícones de aplicações na barra de tarefas no modo de tablet~
+ocultar extensões de ficheiros~
+ocultar automaticamente~
+ocultar automaticamente as barras de deslocamento no windows~
+ocultar automaticamente a barra de tarefas~
+ocultar automaticamente a barra de tarefas no modo de tablet~
+ocular~
+ocasionalmente, na linha cronológica~
+ocasionais em início~
+obter sugestões de coleção~
+obter informações de suporte do pc~
+obter espaço~
+obter armazenamento~
+o áudio mono~
+o zoom ao aproximar dois dedos no touchpad~
+o windows~
+o windows sugerir as definições de facilidade de acesso~
+o windows search~
+o windows está ativado~
+o windows efetua pesquisas~
+o volume do sistema~
+o volume de outras aplicações quando o narrador está a falar~
+o volume da voz do narrador~
+o touchpad~
+o touchpad quando estiver ligado um rato~
+o toque para clicar ao utilizar o touchpad~
+o tom de voz do narrador~
+o tipo de tabela de saída de braille~
+o tipo de tabela de entrada de braille~
+o texto está desfocado~
+o tempo limite de notificação de braille~
+o teclado~
+o teclado tátil~
+o teclado no ecrã~
+o tamanho do texto, aplicações e outros itens~
+o tamanho do ponteiro do rato~
+o tamanho da lente da lupa~
+o seu trabalho~
+o seu telemóvel~
+o seu pc~
+o seu id de publicidade~
+o servidor proxy~
+o reinício~
+o reconhecimento de voz na windows mixed reality~
+o reconhecimento de escrita~
+o rato~
+o rato por teclado apenas quando num lock está ativado~
+o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+o rato ou sem o teclado~
+o que sucede quando fecho a tampa~
+o que posso encaixar ao seu lado~
+o que as janelas apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+o que as janelas apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+o que acontece quando toca ou arrasta três dedos no touchpad~
+o que acontece quando toca ou arrasta quatro dedos no touchpad~
+o que acontece quando o dispositivo ativa ou desativa o modo de tablet~
+o que acontece quando arrasta quatro dedos no touchpad~
+o que acontece ao tocar com três dedos no touchpad~
+o que acontece ao tocar com quatro dedos no touchpad~
+o que acontece ao arrastar três dedos no touchpad~
+o que a cortana consegue fazer, ver e utilizar~
+o portal do dispositivo~
+o ponto de inserção de texto~
+o ponteiro do rato com o teclado~
+o perfil de cor atual~
+o pc para jogos~
+o pc estiver suspenso~
+o pc estiver suspenso quando ligado à corrente~
+o pc estiver suspenso estando ligado à bateria~
+o país ou região~
+o nível de zoom da lupa~
+o nível de luminosidade~
+o nível de detalhe que o narrador fornece acerca do texto~
+o nível de contexto que o narrador fornece para botões e outros controlos~
+o nome do seu pc~
+o nome do pc~
+o narrador~
+o narrador utiliza para ler o contexto de botões e outros controlos~
+o narrador reproduz ajudas de áudio~
+o narrador lê sugestões para a interação de controlos e botões~
+o narrador lê palavras digitadas~
+o narrador lê erros~
+o narrador lê carateres digitados~
+o narrador leia e interaja com o ecrã quando utilizar o rato~
+o narrador fornece para botões e outros controlos~
+o narrador fornece acerca do texto~
+o narrador está ligado~
+o narrador está a falar~
+o narrador enfatize texto formatado~
+o narrador automaticamente após o início de sessão~
+o narrador automaticamente antes do início de sessão para todos os utilizadores~
+o narrador acompanha o foco do teclado~
+o modo de tablet~
+o modo de tablet quando inicia sessão~
+o modo de jogo para otimizar o pc para jogos~
+o meu dispositivo~
+o jogo~
+o jogo é apresentado quando o difunde~
+o jogo através de capturas de ecrã e clipes de jogos~
+o início, a barra de tarefas e o centro de ação transparentes~
+o início de sessão~
+o idioma em que as funcionalidades do windows são apresentadas~
+o idioma de saída de braille~
+o idioma de entrada de braille~
+o idioma da cortana~
+o histórico de localizações~
+o histórico de ficheiros~
+o histórico de atualizações~
+o histórico da pesquisa~
+o grupo de aplicações recentemente adicionadas em início~
+o fuso horário~
+o fornecedor de pesquisa no internet explorer~
+o formato de data e hora~
+o foco do teclado~
+o foco do sistema~
+o foco do narrador~
+o estado rápido~
+o estado do teclado~
+o estado do computador e resolver problemas~
+o estado detalhado~
+o estado de segurança~
+o estado da firewall~
+o esquema de energia~
+o espaço livre disponível~
+o envio de convites de assistência remota deste computador~
+o ecrã~
+o ecrã quando utilizar o rato~
+o ecrã quando ligado~
+o ecrã quando ligado à bateria~
+o ecrã principal~
+o ecrã para introdução a caneta ou por toque~
+o ecrã está desativado~
+o ecrã está bloqueado~
+o domínio em que o computador se encontra~
+o dispositivo da rede da escola ou do trabalho~
+o dispositivo ativa ou desativa o modo de tablet~
+o dispositivo ao domínio na nuvem da escola ou do trabalho~
+o dispositivo ao domínio da escola ou do trabalho~
+o difunde~
+o destaque do windows, uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+o deslocamento do ecrã ao arrastar dois dedos no touchpad~
+o desempenho do windows~
+o cursor é apresentado num ecrã de braille~
+o cursor do narrador segue o rato~
+o cursor do narrador no ecrã~
+o cursor do narrador e o foco do sistema~
+o cursor da caneta~
+o controlador predefinido do seu ecrã de braille~
+o contexto de botões e outros controlos~
+o computador~
+o computador sem o rato ou sem o teclado~
+o computador se encontra~
+o computador para reconhecer a sua voz~
+o comportamento do zoom~
+o comportamento do botão de atalho~
+o comportamento da cortana quando o ecrã está bloqueado~
+o centro de ação transparentes~
+o botão principal no rato~
+o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+o botão direito no touchpad~
+o botão direito ao tocar com dois dedos no touchpad~
+o bloqueio de rotação para a posição ligada/desligada~
+o bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+o atraso no touchpad~
+o aspeto e o desempenho do windows~
+o aspeto do ponteiro do rato ao mover-se~
+o ambiente de trabalho remoto~
+o ambiente de trabalho no fim da barra de tarefas~
+o ambiente de trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+o alto contraste~
+núcleo~
+nível~
+nível de zoom~
+nível de zoom da lupa~
+nível de volume~
+nível de luminosidade~
+nível de detalhe que o narrador fornece acerca do texto~
+nível de contexto que o narrador fornece para botões e outros controlos~
+não-unicode~
+não processado~
+não incomodar~
+nuvem da escola ou do trabalho~
+numlock~
+num web site~
+num segundo ecrã~
+num programa específico~
+num lock~
+num lock ou scroll lock~
+num lock está ativado~
+num ecrã de braille~
+novo~
+nova instalação~
+nova fonética da microsoft~
+noturna~
+notificações~
+notificações entre dispositivos~
+notificações e ações~
+notificações de áudio~
+notificações de pessoas favoritas~
+notificações de aplicações~
+notificações da cortana~
+notificação~
+notificação notificações~
+notificação de braille~
+notificação da cortana~
+notificação da barra de tarefas~
+notification~
+notifications~
+notification notifications~
+nos menus, quando disponíveis~
+non-unicode~
+nome nomes~
+nome do seu pc~
+nome do pc~
+nome do grupo de trabalho~
+noite~
+no windows~
+no touchpad~
+no teclado~
+no teclado no ecrã~
+no teclado físico~
+no rato~
+no modo de tablet~
+no menu iniciar~
+no internet explorer~
+no gestor de tarefas~
+no fim da barra de tarefas~
+no ecrã~
+no ecrã principal~
+no ecrã de bloqueio~
+no computador~
+no centro de ação~
+night~
+nfc~
+new~
+network~
+network virus~
+network status~
+network speed~
+network reset~
+network protection~
+neste pc~
+nearby sharing~
+nearby devices~
+navegação~
+natural~
+nas definições de aplicações~
+narrator~
+narrator sound output~
+narrator sound card~
+narrator settings~
+narrator focus~
+narrator cursor~
+narrador~
+narrador utiliza para ler o contexto de botões e outros controlos~
+narrador segue o rato~
+narrador reproduz ajudas de áudio~
+narrador no ecrã~
+narrador lê sugestões para a interação de controlos e botões~
+narrador lê palavras digitadas~
+narrador lê erros~
+narrador lê carateres digitados~
+narrador leia e interaja com o ecrã quando utilizar o rato~
+narrador fornece para botões e outros controlos~
+narrador fornece acerca do texto~
+narrador está ligado~
+narrador está bloqueada~
+narrador está a falar~
+narrador enfatize texto formatado~
+narrador e o foco do sistema~
+narrador automaticamente após o início de sessão~
+narrador automaticamente antes do início de sessão para todos os utilizadores~
+narrador antes de iniciar sessão~
+narrador acompanha o foco do teclado~
+name names~
+na windows mixed reality~
+na tecla shift~
+na realidade mista~
+na nuvem da escola ou do trabalho~
+na linha cronológica~
+na gestão de dispositivos (mdm)~
+na barra de tarefas~
+na barra de tarefas, no ecrã principal~
+na barra de tarefas, em ecrãs secundários~
+na barra de tarefas no modo de tablet~
+na barra de tarefas e no centro de ação~
+na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+na barra de espaço~
+música~
+música predefinido~
+múltiplos~
+múltiplos monitores~
+múltiplos ecrãs~
+múltiplos dedos~
+múltiplas~
+móvel~
+móvel.~
+métodos de introdução~
+método de introdução~
+mão~
+mão esquerda~
+mão direita~
+mão direita ou a mão esquerda~
+máx~
+máximo~
+máxima do ponteiro do rato por teclado~
+my info~
+muti~
+music~
+multi~
+multitaskting~
+multitasking~
+multitarefa~
+multiple~
+multimédia~
+multimon~
+multijogador~
+multijogador xbox live~
+multi-select~
+multi-finger~
+multi mon~
+multi finger~
+muitos dedos~
+mudar o nome~
+mudar o nome do seu pc~
+mudar o fuso horário~
+movimento~
+movimentos~
+movimentos para executar certas tarefas~
+movimento panorâmico~
+mover-se~
+mover aplicações~
+move apps~
+mouse~
+mouse pointer~
+mouse mice~
+mouse keys~
+mouse connected~
+motion~
+mostrar um alerta visual para notificações de áudio~
+mostrar transparência no windows~
+mostrar sugestões, ocasionalmente, na linha cronológica~
+mostrar sugestões de texto enquanto escrevo~
+mostrar sugestões de texto enquanto escrevo no teclado físico~
+mostrar sugestões da aplicação os meus contactos~
+mostrar sublinhados~
+mostrar resposta visual quando toca no ecrã~
+mostrar relatório~
+mostrar ou ocultar extensões de ficheiros~
+mostrar o que posso encaixar ao seu lado~
+mostrar o domínio em que o computador se encontra~
+mostrar o cursor do narrador no ecrã~
+mostrar o ambiente de trabalho no fim da barra de tarefas~
+mostrar na barra de tarefas~
+mostrar mostra~
+mostrar mais mosaicos em início~
+mostrar imagens de fundo do windows~
+mostrar ficheiros e pastas ocultos~
+mostrar estado de funcionamento~
+mostrar estado de funcionamento do computador~
+mostrar em que grupo de trabalho está este computador~
+mostrar distintivos na barra de tarefas~
+mostrar contactos na barra de tarefas~
+mostrar barras de deslocamento~
+mostrar barra de deslocamento~
+mostrar atalhos~
+mostrar animações no windows~
+mostrar a ram existente no computador~
+mostrar a lista de aplicações no menu iniciar~
+mostrar a barra de tarefas em todos os ecrãs~
+mostram notificações~
+mostrada~
+mostradas~
+mostradas em separadores~
+mosaico~
+mosaicos~
+mosaicos em início~
+mono~
+mono audio~
+monitor~
+monitorização ocular~
+monitores, scanners e impressoras~
+monitor monitors~
+monitor monitores~
+monitor info~
+moeda é mostrada~
+modo~
+modo escuro~
+modo de zoom~
+modo de tablet~
+modo de tablet quando inicia sessão~
+modo de segundo plano~
+modo de segundo plano do ecrã de bloqueio~
+modo de lupa~
+modo de lente~
+modo de jogo para otimizar o pc para jogos~
+modo de funcionalidades~
+modo de ecrã inteiro~
+modo de avião~
+modo claro~
+modo ancorado~
+mode~
+modem~
+mobility~
+mobility center~
+mobilidade~
+mobile~
+mixer~
+mixed reality~
+mixed reality visuals~
+mixed reality features~
+mitigações~
+mitigações do exploit guard~
+mitigação~
+mitigation~
+mitigations~
+mitigation settings~
+misturador~
+misturador de volume~
+misturador de som~
+mista~
+mistake~
+mistakes~
+missing~
+mirror~
+miracast~
+minha caneta~
+mic~
+microsoft~
+microsoft parental~
+microsoft ime register word (japonês)~
+microphone~
+microfone~
+microfone a utilizar com a windows mixed reality~
+mic microphone~
+meus contactos~
+meu dispositivo~
+method editor~
+messaging~
+mesmo igual~
+menu~
+menus, quando disponíveis~
+menu x~
+menu iniciar~
+mensagens~
+mensagens recentes sobre o computador~
+mensagens arquivadas~
+menor~
+menores~
+menor menores~
+memória~
+memória do computador~
+memory~
+memory integrity~
+membros da família utilizem este pc~
+melhoria~
+melhore a qualidade de reconhecimento da escrita manual do seu pc.~
+melhorar~
+melhorar os resultados da pesquisa e de início~
+melhorar a tinta digital e o reconhecimento de escrita~
+melhoramento~
+melhor antivírus gratuito~
+medidas são mostradas~
+me consegue ouvir.~
+mdm~
+mdm)~
+max~
+maximum~
+marketing~
+margens das imagens e de texto ao utilizar a lupa~
+marcação~
+map~
+maps~
+maps update~
+mapa~
+mapas~
+mapas transferidos~
+mapas para utilização offline~
+mapas offline~
+mapa predefinida~
+mapa mapas~
+map update~
+map updates~
+map maps~
+manutenção~
+manutenção recomendadas automaticamente~
+manutenção automática~
+manual~
+manual do seu pc.~
+managment~
+manage~
+management~
+manage volume~
+manage notification~
+malware~
+maiúscula~
+maiúsculas~
+maiúsculas quando fizer duplo toque na tecla shift~
+maiúsculas quando faço duplo toque na tecla shift~
+maiúsculas e minúsculas~
+maiúsculas a primeira letra de uma frase com o teclado tátil~
+maiúscula maiúsculas~
+mais utilizadas em início~
+mais suaves~
+mais mosaicos em início~
+mais facilmente utilizando o teclado~
+mais facilmente utilizando a voz~
+mais escuro~
+mais detalhes acerca da pesquisa, informação e privacidade da cortana~
+mais antigos~
+mais alto~
+maior~
+main~
+mail~
+magnify~
+magnifier~
+magnifiers~
+magnifier mode~
+magnifier magnifiers~
+magnifier follows narrator~
+lê sugestões para a interação de controlos e botões~
+lê palavras digitadas~
+lê erros~
+lê carateres digitados~
+luz~
+luz noturna~
+lupa~
+lupas~
+lupa transparente~
+lupa para ícone de lupa transparente~
+lupa lupas~
+lupa do ecrã~
+lupa automaticamente após o início de sessão~
+lupa acompanha o ponto de inserção de texto~
+lupa acompanha o foco do teclado~
+lupa acompanha o foco do narrador~
+lunar~
+lunar info~
+lunar e feriados~
+lunar and holiday~
+lunar and holiday info~
+luminoso~
+luminosidade~
+luminosidade quando a iluminação se altera~
+luminosidade do conteúdo sdr~
+lua~
+lte~
+low storage~
+low space~
+loud~
+louder~
+lost~
+logótipo do windows + c~
+login~
+login protection~
+logging~
+lock~
+locks~
+lockscreen~
+locker~
+lock, num lock ou scroll lock~
+lock ou scroll lock~
+lock locks~
+lock está ativado~
+location~
+locations~
+local~
+localizações~
+localizações para guardar predefinidas~
+localização~
+localização da barra de tarefas no ecrã~
+localizar~
+localizar o meu dispositivo~
+localizar e corrigir problemas no teclado~
+localizar e corrigir problemas de reprodução de áudio~
+localizar e corrigir problemas de gravação~
+localizar e corrigir problemas de ecrã azul~
+localizar e corrigir problemas com o windows search~
+localizar e corrigir problemas com dispositivos~
+local experience pack~
+local experience packs~
+local de trabalho~
+locais~
+lo ou oferecer-se para ajudar alguém~
+lixo~
+livre~
+livre disponível~
+live~
+listas são mostradas~
+listas de atalhos em início ou na barra de tarefas~
+lista de idiomas~
+lista de aplicações no menu iniciar~
+link~
+linking~
+linked phones~
+link phone~
+link phone and pc~
+linha de comandos~
+linha de comandos pelo windows powershell ao utilizar windows + menu x~
+linha cronológica~
+limpeza~
+limpeza de armazenamento.~
+limpar~
+limpar unidade~
+limpar tpm~
+limpar o histórico de localizações~
+limpar ficheiros temporários~
+limpar ficheiros desnecessários~
+limpar disco~
+limpar dados de ambiente capturados pela windows mixed reality~
+limpar cache~
+limit~
+limite~
+limite de notificação de braille~
+limitar~
+ligue o dispositivo ao domínio na nuvem da escola ou do trabalho~
+ligue o dispositivo ao domínio da escola ou do trabalho~
+light~
+lighting~
+light mode~
+ligações~
+ligações universais~
+ligações para aplicações~
+ligações para aplicação~
+ligações de programas remoteapp e ambientes de trabalho remotos~
+ligações da web~
+ligação à internet~
+ligação ligações~
+ligação de banda larga~
+ligar~
+ligar ou desligar o teclado no ecrã~
+ligar ou desligar o cursor da caneta~
+ligar ou desligar o alto contraste~
+ligar ou desligar cursor de braile intermitente~
+ligar ou desligar a resposta visual da caneta~
+ligar ou desligar 3d estereoscópico~
+ligar os comandos sem fios da xbox one~
+ligar ligação ligações~
+ligar as teclas presas, sonoras ou lentas com um atalho de teclado~
+ligar ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+ligar a um ecrã sem fios~
+ligar a profissional ou escolar~
+ligado~
+ligado à corrente~
+ligado à bateria~
+ligado um rato~
+ligada/desligada~
+lift~
+libusb~
+library libraries~
+libertar espaço~
+level~
+levantar~
+letra~
+letra e definições relacionadas~
+letra de uma frase com o teclado tátil~
+letra de cada frase em maiúsculas~
+letra das legendas~
+ler texto com o narrador~
+ler o contexto de botões e outros controlos~
+ler e-mail~
+lento~
+lentidão no pc~
+lentidão no computador~
+lente~
+lente da lupa~
+lentas~
+lentas com um atalho de teclado~
+lens~
+lens mode~
+lenovo reachit~
+leitor~
+leitor de vídeo predefinido~
+leitor de música predefinido~
+leitor de ecrã~
+leia e interaja com o ecrã quando utilizar o rato~
+legendas~
+legendagem~
+legendagem de áudio~
+legenda oculta~
+left~
+left handed~
+leave~
+layout~
+largura~
+large~
+larger~
+larga~
+lan~
+language~
+languages~
+language languages~
+landscape~
+lado~
+la automaticamente para preencher o espaço livre disponível~
+kids~
+kids security~
+kids safe~
+kids safe online~
+kids control~
+kid kids~
+key~
+keys~
+keyboard~
+keyboards~
+keyboard shortcut~
+keyboard keyboards~
+keyboard command~
+justo~
+junto~
+join~
+joint~
+jogo~
+jogos~
+jogo é apresentado quando o difunde~
+jogo usb~
+jogo se abre e reconhece o jogo~
+jogo para otimizar o pc para jogos~
+jogo através de capturas de ecrã e clipes de jogos~
+jogar~
+japonês)~
+janelas~
+janelas semelhantes~
+janelas semelhantes na barra de tarefas, no ecrã principal~
+janelas semelhantes na barra de tarefas, em ecrãs secundários~
+janelas encaixadas adjacentes~
+janelas automaticamente arrastando-as para as extremidades ou cantos do ecrã~
+janelas apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+janelas apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+janela, mostrar o que posso encaixar ao seu lado~
+janela, ajustá-la automaticamente para preencher o espaço livre disponível~
+janela encaixada, redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+janela da lupa para ícone de lupa transparente~
+janela da legenda oculta~
+itinerante itinerância~
+itens~
+itens abertos recentemente em listas de atalhos em início ou na barra de tarefas~
+isolamento do núcleo~
+iscsi~
+iris~
+iphone~
+ipd~
+ios~
+início~
+início, na barra de tarefas e no centro de ação~
+início, a barra de tarefas e o centro de ação transparentes~
+início ou na barra de tarefas~
+início inícios~
+início em ecrã inteiro~
+início de sessão~
+início de sessão por íris~
+início de sessão por impressão digital~
+início de sessão por face~
+início de sessão para todos os utilizadores~
+início de sessão com pin~
+início de sessão automático~
+início automático~
+in~
+invert~
+inverter~
+inverter direção do deslocamento~
+inverter direção do deslocamento no touchpad~
+inverter cores ao utilizar a lupa~
+invert color~
+inversão~
+inversão de cor~
+inversion~
+introdução~
+introdução por toque~
+introdução por toque quando utilizo a minha caneta~
+introdução a caneta ou por toque~
+intonation~
+interpupillary~
+interpupilar~
+internet~
+internet status~
+internet security~
+internet explorer~
+internet connection~
+intermitência do cursor~
+intermitente~
+interação~
+interação de controlos e botões~
+interação da facilidade de acesso~
+interaja com o ecrã quando utilizar o rato~
+interagir~
+interagir mais facilmente utilizando o teclado~
+interagir mais facilmente utilizando a voz~
+interact~
+interaction~
+intel~
+inteiro~
+integridade da memória~
+install~
+installing apps~
+installed~
+installed updates~
+install printer~
+instalação de dispositivo~
+instalar~
+instalar um programa a partir da rede~
+instalar instalação~
+instalar impressora~
+instalar braille~
+instalar aplicações~
+instalado~
+instalado com êxito~
+instalada~
+insider~
+insider settings~
+inserções~
+inserção~
+inserção inserções~
+inserção de texto~
+insert~
+inserts~
+insertion~
+insertions~
+insertion insertions~
+insert inserts~
+inserir~
+inserir insere~
+insere~
+inscrição~
+inscrição na gestão de dispositivos (mdm)~
+inscrever~
+input method~
+input method editor~
+ink~
+inking~
+ink.~
+ink workspace~
+inicie o narrador~
+iniciações de voz~
+iniciar~
+iniciar sessão~
+iniciar reconhecimento de voz~
+iniciar ou parar utilizando a reprodução automática para todos os suportes de dados e dispositivos~
+iniciar o narrador automaticamente após o início de sessão~
+iniciar o narrador automaticamente antes do início de sessão para todos os utilizadores~
+iniciar o modo de tablet quando inicia sessão~
+iniciar a lupa automaticamente após o início de sessão~
+iniciam automaticamente quando inicia o windows~
+iniciador iscsi~
+inicia sessão~
+inicia o windows~
+infravermelhos~
+info~
+informações~
+informações sobre feriados~
+informações sobre calendário lunar e feriados~
+informações do utilizador~
+informações do processador~
+informações do calendário lunar~
+informações de suporte do pc~
+informações de monitor~
+informações de conta~
+informações de caneta e toque~
+informações da ram~
+informações básicas sobre o computador~
+informações avançadas do ecrã~
+informação~
+informação e privacidade da cortana~
+information~
+informar se existe um feed rss disponível num web site~
+info. sobre lunar e natal~
+indicação de toque maior~
+indicator~
+indicators~
+indicador~
+indicadores~
+indicador de deslocamento panorâmico~
+indexação~
+increment~
+incremento de zoom da lupa~
+incrementar~
+increase~
+incapacidade~
+incapacidades~
+ims~
+imsi~
+improve~
+improvement~
+imprimir impressão impressora impressoras~
+impressões digitais~
+impressão digital~
+impressão digital impressões digitais~
+impressoras~
+impressoras e scanners~
+impressora predefinida~
+ime~
+ime register word (japonês)~
+image~
+images~
+imagens~
+imagens e de texto ao utilizar a lupa~
+imagens de fundo do windows~
+imagem~
+imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+imagem no ecrã de bloqueio~
+imagem imagens~
+imagem de conta~
+imagem de conta e de perfil~
+iluminação~
+iluminação se altera~
+igual~
+ignore~
+ignorar~
+ignorar os batimentos de teclas curtos ou repetidos~
+ignorar introdução por toque quando utilizo a minha caneta~
+idioma~
+idiomas~
+idiomas na web~
+idioma na web~
+idioma idiomas~
+idioma em que as funcionalidades do windows são apresentadas~
+idioma e teclado~
+idioma de saída de braille~
+idioma de entrada de braille~
+idioma de apresentação~
+idioma de apresentação do windows~
+idioma da cortana~
+idioma a este dispositivo~
+identify~
+identifier~
+identificar~
+identificar ecrãs~
+identificar e reparar problemas de rede~
+identificador~
+id do produto~
+id de publicidade~
+icon~
+icons~
+icon icons~
+iccid~
+hybrid~
+hotspot móvel.~
+hotspot hotspots~
+horário~
+horário de verão~
+horizontal~
+hora~
+horas de trabalho~
+horas de pausa~
+horas de atividade~
+horas ativas~
+horas ativas no windows 10~
+hora horas~
+hora de verão~
+hora automaticamente~
+hora atuais~
+home page~
+holográfico~
+holographic~
+holographic fps~
+holiday~
+holiday info~
+hmd~
+histórico~
+histórico do dispositivo~
+histórico de pesquisa~
+histórico de pesquisas~
+histórico de navegação~
+histórico de localizações~
+histórico de funcionalidades opcionais~
+histórico de ficheiros~
+histórico de fiabilidade~
+histórico de atualizações~
+histórico de atividades~
+histórico da pesquisa~
+histórico da cortana~
+history~
+hiperligações da web~
+hint~
+hints~
+high~
+highlight~
+highlight highlights~
+high dynamic range~
+high dynamic range video~
+high contrast~
+hide~
+hibrído~
+hey~
+hey cortana~
+help~
+hear~
+hearing~
+health~
+health report~
+health advisor~
+headset visuals~
+headset features~
+headset display~
+headphone~
+headphones~
+hd~
+hdr~
+hdr video~
+hdr e gama de cores alargada~
+hd color~
+hard~
+hardware security~
+hardware rating~
+hardware keyboard~
+hand~
+handwriting~
+handedness~
+guardar~
+guardar predefinidas~
+gráficos~
+grupo~
+grupos locais~
+grupo de trabalho~
+grupo de trabalho para este pc~
+grupo de trabalho está este computador~
+grupo de aplicações recentemente adicionadas em início~
+group~
+greyscale~
+greyscale inverted~
+grayscale~
+grayscale inverted~
+gravação~
+gravar~
+gravar passos para reproduzir um problema~
+gravador~
+grau~
+graus~
+gratuito~
+graphics~
+grande~
+gralhas ao escrever~
+grade~
+grades~
+gpu~
+gpu externa~
+gps~
+go~
+gnss~
+glass~
+get storage~
+get space~
+gestão~
+gestão do seu pc~
+gestão de dispositivo~
+gestão de dispositivos (mdm)~
+gestão de cores~
+gestão de cores para monitores, scanners e impressoras~
+gesture~
+gestures~
+gesto~
+gestos~
+gestor de tarefas~
+gestor de dispositivos~
+gestor de credenciais~
+gerir~
+gerir volume~
+gerir suplementos do browser~
+gerir pastas de trabalho~
+gerir palavras-passe da rede~
+gerir o que a cortana consegue fazer, ver e utilizar~
+gerir notificação~
+gerir funcionalidades opcionais~
+gerir ficheiros offline~
+gerir espaços de armazenamento~
+gerir dispositivos de áudio~
+gerir definições de partilha avançadas~
+gerir credenciais web~
+gerir credenciais do windows~
+gerir contas de e-mail~
+gerir contas de aplicações~
+gerir conta escolar ou profissional~
+gerir certificados de utilizador~
+gerir certificados de encriptação de ficheiros~
+gerir certificados de computador~
+gerir bitlocker~
+gerir atualizações de mapas~
+gerir aliases de execução da aplicação~
+gerir a sua conta~
+gerar um relatório de estado de funcionamento do sistema~
+geral da utilização de dados~
+garantir que a cortana me consegue ouvir.~
+game~
+gama de cores alargada~
+galeria de personalização online do windows~
+galaxy~
+físico~
+fácil~
+fuso horário~
+fundo~
+fundos~
+fundo, apresentação de diapositivos ou cor sólida como modo de segundo plano~
+fundo fundos~
+fundo do windows~
+fundo da legenda oculta~
+funcionamento do sistema~
+funcionamento do dispositivo~
+funcionalidade~
+funcionalidades~
+funcionalidades opcionais~
+funcionalidades do windows~
+funcionalidades do windows são apresentadas~
+funcionalidades do headset~
+funcionalidades de realidade mista~
+funcionalidades de programador~
+funcionalidade opcional~
+funcionalidade funcionalidades~
+funcionalidade de resolução de problemas~
+full~
+fullscreen~
+full screen~
+full screen mode~
+full scan~
+fresh start~
+frequent~
+frequente~
+free~
+free virus removal~
+free virus protection~
+free storage~
+free space~
+free antivirus~
+free antivirus software~
+frase~
+frases~
+frase frases~
+frase em maiúsculas~
+frase com o teclado tátil~
+fps holográfico~
+four-finger~
+four finger~
+fount~
+foto~
+fotografia~
+fotografias predefinido~
+fotografia fotografias~
+forçar reinício~
+for~
+fornecedor de pesquisa no internet explorer~
+fornecedor de armazenamento~
+fornece para botões e outros controlos~
+fornece acerca do texto~
+formatting~
+formatos de data e hora atuais~
+formato formatos formatado~
+formato de data e hora~
+formato de cores~
+formatação de texto~
+formatar~
+formatar partições do disco rígido~
+formatado~
+format formats formatted~
+forma de falar com a cortana~
+forma de agrupar janelas semelhantes~
+forma como o windows efetua pesquisas~
+forma como o jogo é apresentado quando o difunde~
+forma como o cursor é apresentado num ecrã de braille~
+forma como o bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+forma como as páginas web são mostradas em separadores~
+forma como as medidas são mostradas~
+forma como as datas e as listas são mostradas~
+forma como a moeda é mostrada~
+forma como a barra de jogo se abre e reconhece o jogo~
+forgot~
+force restart~
+fora~
+foram instaladas atualizações~
+fonética da microsoft~
+font~
+fonts~
+fonts settings~
+fonte~
+font settings~
+follow~
+follow mouse~
+follow focus~
+folder~
+folder folders~
+folder access~
+focus~
+focus assist~
+foco~
+foco do teclado~
+foco do sistema~
+foco do narrador~
+fluxo de multimédia~
+flight settings~
+flash~
+flash window~
+flash janela~
+fiável~
+fi~
+fizer duplo toque na tecla shift~
+fix~
+fixes~
+fix network connection~
+fix fixes~
+fix blurry text~
+fit~
+firmware~
+firmware protection~
+firewall~
+firewall e proteção da rede~
+firewall do windows~
+firewall do windows defender~
+fios~
+fios da xbox one~
+finish install~
+fingerprint fingerprints~
+find~
+fim da barra de tarefas~
+filtro~
+filtros~
+filtros de cor~
+filtro de cor~
+filtrar batimentos de tecla acidentais repetidos~
+filtra conteúdos para adultos dos seus resultados de pesquisa~
+filter~
+filters~
+fill~
+file~
+files~
+files restore~
+file history~
+file files~
+ficheiro~
+ficheiros~
+ficheiros temporários~
+ficheiros temporários da internet~
+ficheiros offline~
+ficheiros e protocolos abertos por cada aplicação~
+ficheiros e pastas~
+ficheiros e pastas ocultos~
+ficheiros e outras definições~
+ficheiros com o histórico de ficheiros~
+ficheiro ficheiros~
+ficheiro de atualização~
+ficheiro abra sempre num programa específico~
+fiabilidade~
+ferramentas administrativas~
+feriado~
+feriados~
+feedback~
+feed rss disponível num web site~
+fecho a tampa~
+fechar a janela da lupa para ícone de lupa transparente~
+feature~
+features~
+features mode~
+feature update~
+feature features~
+faço duplo toque na tecla shift~
+faça a gestão do seu pc~
+fazer, ver e utilizar~
+fazer duplo toque~
+fazer duplo toque na barra de espaço~
+fazer cópia de segurança da chave de recuperação~
+fazer com que um tipo de ficheiro abra sempre num programa específico~
+fax faxes~
+favoritas~
+família~
+família utilizem este pc~
+família famílias~
+family~
+family security~
+family safe~
+family safety~
+family safe online~
+family families~
+family control~
+falta~
+falha ao instalar~
+falar~
+falar com a cortana~
+fair~
+failed to install~
+facilmente utilizando o teclado~
+facilmente utilizando a voz~
+facilidade~
+facilidade de acesso~
+face~
+face faces~
+eye~
+eye tracker~
+eye gaze~
+eye control~
+extremidades ou cantos do ecrã~
+external gpu~
+extensões de ficheiros~
+extensão extensões~
+extension extensions~
+extend~
+explorer~
+explorador de ficheiros~
+explorador de ficheiros e outras definições~
+exploit~
+exploit protection~
+exploit guard~
+exploit guard mitigations~
+experiências partilhadas~
+experiência partilhada~
+expandir para um ecrã ligado~
+existente no computador~
+existe um feed rss disponível num web site~
+execução da aplicação~
+executar tarefas de manutenção recomendadas automaticamente~
+executar programas concebidos para versões anteriores do windows~
+executar determinadas tarefas~
+executar certas tarefas~
+executadas em segundo plano~
+executada para melhorar os resultados da pesquisa e de início~
+exclusões~
+exclusions~
+eventos~
+ethernet~
+estéreo~
+estão a afetar a duração da bateria~
+está ligado~
+está este computador~
+está desativado~
+está bloqueado~
+está bloqueada~
+está ativado~
+está a falar~
+estiver suspenso~
+estiver suspenso quando ligado à corrente~
+estiver suspenso estando ligado à bateria~
+estiver ligado um rato~
+estilo~
+estereoscópico~
+estejam desfocadas~
+este pc~
+este dispositivo~
+este computador~
+estar seguro online~
+estando ligado à bateria~
+estado~
+estados~
+estado rápido~
+estado e tarefas da rede~
+estado do teclado~
+estado do computador e resolver problemas~
+estado do bloqueio dinâmico~
+estado detalhado~
+estado de segurança~
+estado de funcionamento do sistema~
+estado de funcionamento do dispositivo~
+estado de funcionamento do computador~
+estado de funcionamento do armazenamento~
+estado de funcionamento da atualização~
+estado de bloqueio dinâmico~
+estado da rede~
+estado da internet~
+estado da firewall~
+esquerdo~
+esquerdino~
+esquerda~
+esquema~
+esquema de teclado ou input method editor~
+esquema de energia~
+esquema automático~
+espessura~
+espessura do cursor~
+espelho~
+específico~
+especificar clique único ou duplo clique para abrir~
+espaço~
+espaços~
+espaços de armazenamento~
+espaço quando escolher uma sugestão de texto~
+espaço livre~
+espaço livre disponível~
+espaço espaços~
+espaço depois de escolher uma sugestão de texto~
+espaço de cores~
+esim~
+escuro~
+escurecer ecrã~
+escrita~
+escrita manual~
+escrita manual do seu pc.~
+escrevo~
+escrevo no teclado físico~
+escrever~
+escolher uma sugestão de texto~
+escolher uma conta para acesso atribuído~
+escolher uma aplicação predefinida para cada tipo de ficheiro~
+escolher uma aplicação predefinida para cada site~
+escolher uma aplicação para apresentar o estado detalhado~
+escolher uma aplicação de mapa predefinida~
+escolher uma aplicação de e-mail predefinida~
+escolher um visualizador de fotografias predefinido~
+escolher um microfone a utilizar com a windows mixed reality~
+escolher um leitor de vídeo predefinido~
+escolher um leitor de música predefinido~
+escolher um esquema de energia~
+escolher um browser predefinido~
+escolher um ajuste de imagem~
+escolher se pretende um atraso no touchpad~
+escolher se pretende iniciar o modo de tablet quando inicia sessão~
+escolher se os web sites podem usar a lista de idiomas~
+escolher se o narrador lê sugestões para a interação de controlos e botões~
+escolher se o narrador lê palavras digitadas~
+escolher se o narrador lê erros~
+escolher se o narrador acompanha o foco do teclado~
+escolher se o cursor do narrador segue o rato~
+escolher se as definições são sincronizadas neste pc~
+escolher se a tecla do narrador está bloqueada~
+escolher se a lupa acompanha o ponto de inserção de texto~
+escolher se a lupa acompanha o foco do narrador~
+escolher quantos contactos mostrar na barra de tarefas~
+escolher quantas teclas do teclado tátil são premidas quando o narrador está ligado~
+escolher quando desligar o ecrã quando ligado~
+escolher quando desligar o ecrã quando ligado à bateria~
+escolher quando desativar o ecrã~
+escolher predefinições da reprodução automática~
+escolher os altifalantes a utilizar com a windows mixed reality~
+escolher janela~
+escolher escolhido~
+escolher as suas ações rápidas~
+escolher as aplicações que mostram notificações~
+escolher aplicações para apresentar o estado rápido~
+escolher a partir de onde instalar aplicações~
+escolher a forma como o cursor é apresentado num ecrã de braille~
+escolher a duração da apresentação das notificações~
+escolher a aplicação predefinida para cada protocolo~
+escolha os tipos de ficheiros e protocolos abertos por cada aplicação~
+escolha como pretende abrir as ligações~
+escolha as aplicações que podem ser executadas em segundo plano~
+escolha a sua cor de destaque~
+escola~
+escolar~
+escolar ou profissional~
+escola ou do trabalho~
+escala~
+esbater~
+erro~
+erros~
+erros ortográficos~
+erros ortográficos automaticamente~
+erros de digitação~
+error~
+errors~
+error echo~
+erro de digitação~
+erro de digitação erros de digitação~
+erro com eco~
+environment~
+environment privacy~
+envio de convites de assistência remota deste computador~
+enviar~
+enviar ou receber um ficheiro~
+enviar notificações entre dispositivos~
+enviar notificação~
+entrega~
+entre dispositivos~
+entrada de braille~
+entoação~
+entoação do narrador~
+enroll~
+enrollment~
+enquanto escrevo~
+enquanto escrevo no teclado físico~
+enlarge~
+enlarge,lupa~
+enhanced signin security~
+enhanced sign-in security~
+enhanced sign in security~
+engano~
+enganos~
+enfatize texto formatado~
+enfatizar~
+energia~
+energia e suspensão~
+encryption encryptions~
+encriptação encriptações~
+encriptação de ficheiros~
+encriptação de dispositivo~
+encriptar os ficheiros offline~
+encontra~
+encomendar~
+encode encodes~
+encaixo uma janela, mostrar o que posso encaixar ao seu lado~
+encaixo uma janela, ajustá-la automaticamente para preencher o espaço livre disponível~
+encaixe~
+encaixar~
+encaixar ao seu lado~
+encaixadas adjacentes~
+encaixada, redimensionar automaticamente quaisquer janelas encaixadas adjacentes~
+enable~
+enable taps~
+enable remote~
+enable enables~
+empresa~
+empresa faça a gestão do seu pc~
+empresa empresas~
+emphasize~
+emphasis~
+emparelhar~
+emparelhar emparelha par~
+emitir um alerta ao ligar as teclas presas, sonoras ou lentas com um atalho de teclado~
+emet~
+email protection~
+email emails mail~
+email e-mail~
+em vários ecrãs~
+em voz~
+em todos os ecrãs~
+em separadores~
+em segundo plano~
+em que o computador se encontra~
+em que grupo de trabalho está este computador~
+em que as funcionalidades do windows são apresentadas~
+em maiúsculas~
+em maiúsculas a primeira letra de uma frase com o teclado tátil~
+em listas de atalhos em início ou na barra de tarefas~
+em início~
+em início, na barra de tarefas e no centro de ação~
+em início ou na barra de tarefas~
+em fluxo de multimédia~
+em ecrãs secundários~
+em ecrã inteiro~
+eliminar~
+eliminar windows~
+eliminar windows.old~
+eliminar mapa~
+eliminar mapas~
+eliminar mapas transferidos~
+eliminar histórico de navegação~
+eliminar cookies ou ficheiros temporários~
+elevações~
+elevations~
+elementos visuais do auscultador com microfone~
+elementos visuais da realidade mista~
+effect~
+effects~
+efetuar uma apresentação~
+efetua pesquisas~
+efeito~
+efeitos~
+editor~
+editor de carateres privados~
+editar variáveis de ambiente para a sua conta~
+editar utilizadores e grupos locais~
+editar política de grupo~
+editar plano~
+editar ou remover outras pessoas~
+editar opções de idioma e teclado~
+editar o esquema de energia~
+editar limite~
+editar as variáveis de ambiente do sistema~
+edit plan~
+edit limit~
+ecrã~
+ecrãs~
+ecrãs secundários~
+ecrãs mais antigos~
+ecrã utilizando a lupa~
+ecrã sem fios~
+ecrã quando utilizar o rato~
+ecrã quando ligado~
+ecrã quando ligado à bateria~
+ecrã principal~
+ecrã para introdução a caneta ou por toque~
+ecrã ligado~
+ecrã inteiro~
+ecrã está desativado~
+ecrã está bloqueado~
+ecrã ecrãs~
+ecrã e clipes de jogos~
+ecrã do headset~
+ecrã de braille~
+ecrã de bloqueio~
+ecrã azul~
+ecrã ao arrastar dois dedos no touchpad~
+eco~
+eco de erro~
+eco das palavras~
+eco da palavra~
+eco caráter~
+eco carateres~
+echo~
+echo words~
+echo error~
+echo characters~
+ease~
+ease of access~
+e-mail~
+e-mail predefinida~
+e-mail e-mails~
+e-mail e aplicações~
+e utilizar~
+e toque~
+e teclado~
+e tarefas da rede~
+e suspensão~
+e sugestões sobre como utilizar o windows~
+e shift para ajustar a velocidade do ponteiro do rato por teclado~
+e scanners~
+e resolver problemas~
+e resolver problemas de conectividade multijogador xbox live~
+e reparar problemas de rede~
+e reconhece o jogo~
+e protocolos abertos por cada aplicação~
+e proteção da rede~
+e privacidade da cortana~
+e pastas~
+e pastas ocultos~
+e outros itens~
+e outros controlos~
+e outras definições~
+e outras definições de dispositivos~
+e otimizar as unidades~
+e o reconhecimento de escrita~
+e o histórico da pesquisa~
+e o foco do sistema~
+e o desempenho do windows~
+e o comportamento do zoom~
+e o centro de ação transparentes~
+e no centro de ação~
+e modem~
+e manutenção~
+e interaja com o ecrã quando utilizar o rato~
+e instalar braille~
+e impressoras~
+e idioma~
+e hora~
+e hora atuais~
+e grupos locais~
+e gama de cores alargada~
+e funcionalidades~
+e formatar partições do disco rígido~
+e feriados~
+e estado de funcionamento do dispositivo~
+e escrita~
+e enviar~
+e do cursor~
+e dispositivos~
+e dispositivos de rede~
+e definições relacionadas~
+e de texto ao utilizar a lupa~
+e de pesquisa~
+e de perfil~
+e de início~
+e corrigir problemas no teclado~
+e corrigir problemas de reprodução de áudio~
+e corrigir problemas de gravação~
+e corrigir problemas de ecrã azul~
+e corrigir problemas com o windows search~
+e corrigir problemas com dispositivos~
+e clipes de jogos~
+e browsers~
+e botões~
+e ações~
+e as listas são mostradas~
+e arrastar no touchpad~
+e aplicações~
+e ameaças~
+e ambientes de trabalho remotos~
+e ajudá-lo ou oferecer-se para ajudar alguém~
+dynamic~
+dynamic lock~
+dynamic lock status~
+dvr~
+duração da bateria~
+duração da apresentação das notificações~
+duplo~
+duplo toque~
+duplo toque na tecla shift~
+duplo toque na barra de espaço~
+duplo toque e arrastar no touchpad~
+duplo clique para abrir~
+duplicate~
+duplicar~
+duplicar ou expandir para um ecrã ligado~
+duck~
+ducking~
+dst~
+drive~
+drives~
+driver~
+drivers~
+driver drivers~
+drive drives~
+drag~
+dpi~
+do~
+download~
+downloads~
+download antivirus~
+double~
+double-tap~
+double tap~
+dos seus resultados de pesquisa~
+dos recursos de sistema no gestor de tarefas~
+dos mapas offline~
+dos ficheiros temporários da internet~
+domínio~
+domínio na nuvem da escola ou do trabalho~
+domínio em que o computador se encontra~
+domínio domínios~
+domínio da escola ou do trabalho~
+domain~
+domain domains~
+dois dedos~
+dois dedos no touchpad~
+documentos~
+documento ou uma imagem~
+docked mode~
+do zoom~
+do windows~
+do windows, uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+do windows update~
+do windows to go~
+do windows são apresentadas~
+do windows seja executada para melhorar os resultados da pesquisa e de início~
+do windows ink~
+do windows ink.~
+do windows defender~
+do windows de 32 ou 64 bits~
+do windows + c~
+do utilizador~
+do trabalho~
+do touchpad~
+do touchpad e o comportamento do zoom~
+do texto~
+do texto, aplicações e outros itens~
+do teclado~
+do teclado tátil~
+do teclado tátil são premidas quando o narrador está ligado~
+do tablet para executar determinadas tarefas~
+do sistema~
+do sistema de ficheiros~
+do seu pc~
+do seu pc.~
+do seu ecrã de braille~
+do servidor proxy manual~
+do registo de chamadas~
+do rato~
+do rato por teclado~
+do rato com o teclado~
+do rato ao mover-se~
+do proxy de rede~
+do programa windows insider~
+do produto~
+do processador~
+do ponteiro e do cursor~
+do ponteiro do rato~
+do ponteiro do rato por teclado~
+do ponteiro do rato ao mover-se~
+do pc~
+do núcleo~
+do not disturb~
+do narrador~
+do narrador segue o rato~
+do narrador no ecrã~
+do narrador está bloqueada~
+do narrador e o foco do sistema~
+do narrador antes de iniciar sessão~
+do modo de tablet~
+do microfone~
+do logótipo do windows + c~
+do início de sessão para todos os utilizadores~
+do histórico de pesquisa~
+do histórico de atividades~
+do grupo de trabalho~
+do filtro de cor~
+do feedback~
+do explorador de ficheiros~
+do ecrã~
+do ecrã utilizando a lupa~
+do ecrã de bloqueio~
+do ecrã ao arrastar dois dedos no touchpad~
+do dispositivo~
+do dispositivo ligado~
+do dispositivo de monitorização ocular~
+do disco rígido~
+do dicionário de utilizador local~
+do deslocamento no touchpad~
+do desempenho na realidade mista~
+do cursor~
+do cursor do narrador~
+do cursor ao utilizar o touchpad~
+do conteúdo sdr~
+do computador~
+do computador e resolver problemas~
+do calendário~
+do browser~
+do botão de atalho~
+do bloqueio dinâmico~
+do auxiliar de concentração~
+do ambiente de trabalho remoto~
+dnd~
+dizendo "olá cortana"~
+divider~
+ditar~
+ditado~
+distância deslocada com a roda do rato~
+distintivo~
+distintivos~
+distintivos na barra de tarefas~
+disposição automática das janelas~
+dispositivo~
+dispositivos~
+dispositivos sem fios~
+dispositivos nas imediações~
+dispositivos emparelhados~
+dispositivos de áudio~
+dispositivos de rede~
+dispositivos de braille~
+dispositivos abertos~
+dispositivos (mdm)~
+dispositivo remoto~
+dispositivo preparado após reinício~
+dispositivo ligado~
+dispositivo dispositivos~
+dispositivo de áudio~
+dispositivo de áudio predefinido~
+dispositivo de saída de áudio do narrador~
+dispositivo de monitorização ocular~
+dispositivo da rede da escola ou do trabalho~
+dispositivo ativa ou desativa o modo de tablet~
+dispositivo ao domínio na nuvem da escola ou do trabalho~
+dispositivo ao domínio da escola ou do trabalho~
+dispor~
+dispor janelas automaticamente arrastando-as para as extremidades ou cantos do ecrã~
+disponível~
+disponível num web site~
+disponíveis~
+display~
+displays~
+display language~
+display displays~
+disk~
+disks~
+disk size~
+disk sizes~
+discurso~
+discreto~
+disco~
+discovery~
+discos~
+disconnect~
+disco rígido~
+disco de reposição de palavras-passe~
+disable~
+disable taps~
+disable disables~
+disability~
+disabilities~
+direção do deslocamento no touchpad~
+direção de deslocamento do touchpad e o comportamento do zoom~
+direito~
+direitos~
+direito no touchpad~
+direito ao tocar com dois dedos no touchpad~
+direita ou a mão esquerda~
+directory~
+directaccess~
+dinâmico~
+dim~
+diminuir o volume de outras aplicações quando o narrador está a falar~
+dimensionamento~
+digital~
+digitalizar um documento ou uma imagem~
+digitalizar digitalização scanner scanners~
+digital e o reconhecimento de escrita~
+digital e escrita~
+digitados~
+digitadas~
+difusão~
+difundir~
+difunde~
+different~
+diferente~
+dictionary~
+dictation~
+dictate~
+dicionário~
+dicionário de utilizador local~
+dicas e sugestões sobre como utilizar o windows~
+dica dicas~
+diapositivos ou cor sólida como modo de segundo plano~
+diapositivos do ecrã de bloqueio~
+diapositivos como modo de segundo plano do ecrã de bloqueio~
+dialup~
+dialog~
+dialogs~
+dial-up~
+dial dials~
+diagnóstico~
+diagnósticos~
+diagnóstico de aplicação~
+diagnostic~
+diagnostics~
+diagnosticar~
+diagnosticar os problemas de memória do computador~
+diagnose~
+de~
+device~
+devices~
+device security~
+device rating~
+device privacy~
+device management~
+device issues~
+device health~
+device devices~
+developer~
+developer developers~
+deuteranopia~
+deteção detetar~
+deteção de proxy automática~
+deteção de dispositivos~
+detetar~
+detetar ou identificar ecrãs~
+detetar ecrãs mais antigos~
+detetar deteções deteta~
+determine as pastas que são apresentadas em início~
+determinar se as aplicações podem utilizar o seu id de publicidade~
+determinar o que acontece quando o dispositivo ativa ou desativa o modo de tablet~
+determinadas tarefas~
+detect~
+detect detects~
+detalhe~
+detalhes~
+detalhes acerca da pesquisa, informação e privacidade da cortana~
+detalhe que o narrador fornece acerca do texto~
+detalhado~
+detail~
+details~
+destro~
+destreza manual~
+deste computador~
+destaque~
+destaque do windows, uma imagem ou uma apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+destacar erros ortográficos~
+desmarcar tpm~
+deslocação~
+deslocação com dois dedos~
+deslocação automática~
+deslocar~
+deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+deslocar deslocação~
+deslocar desloca~
+deslocar automaticamente~
+deslocamento~
+deslocamento no windows~
+deslocamento no touchpad~
+deslocamento do touchpad e o comportamento do zoom~
+deslocamento do ecrã ao arrastar dois dedos no touchpad~
+deslocamento com dois dedos~
+deslocada com a roda do rato~
+desligue o dispositivo da rede da escola ou do trabalho~
+desligar~
+desligar o touchpad quando estiver ligado um rato~
+desligar o toque para clicar ao utilizar o touchpad~
+desligar o teclado no ecrã~
+desligar o ecrã quando ligado~
+desligar o ecrã quando ligado à bateria~
+desligar o cursor da caneta~
+desligar o alto contraste~
+desligar duplo toque e arrastar no touchpad~
+desligar cursor de braile intermitente~
+desligar clique com o botão direito no touchpad~
+desligar a resposta visual da caneta~
+desligar 3d estereoscópico~
+desligada~
+desktop icons~
+desinstalações~
+desinstalar~
+desfragmentar e otimizar as unidades~
+desfocado~
+desfocadas~
+desencriptar~
+desempenho~
+desempenho na realidade mista~
+desempenho e estado de funcionamento do dispositivo~
+desempenho do windows~
+desempenho do computador~
+desemparelhar~
+descubra que aplicações estão a afetar a duração da bateria~
+descrições de áudio para vídeo~
+descrição geral da utilização de dados~
+descodificar~
+desbloquear~
+desative os toques ou altere o atraso no touchpad~
+desativar~
+desativar ícones do sistema~
+desativar toques~
+desativar reprodução automática~
+desativar o áudio mono~
+desativar o zoom ao aproximar dois dedos no touchpad~
+desativar o touchpad~
+desativar o narrador~
+desativar o ecrã~
+desativar o deslocamento do ecrã ao arrastar dois dedos no touchpad~
+desativar notificações de aplicações~
+desativar movimentos~
+desativar modo de avião~
+desativar hora de verão~
+desativar funcionalidades do windows~
+desativar filtros de cor~
+desativar disposição automática das janelas~
+desativar dispositivos sem fios~
+desativar deteção de proxy automática~
+desativar cortana~
+desativar cookies de sessão~
+desativar clique com o botão direito ao tocar com dois dedos no touchpad~
+desativar braille~
+desativar a proteção de ecrã~
+desativar a poupança de bateria~
+desativar a lupa~
+desativar a conclusão automática no internet explorer~
+desativar a apresentação de diapositivos do ecrã de bloqueio~
+desativado~
+desativa o modo de tablet~
+desassociar~
+depois de fazer duplo toque na barra de espaço~
+depois de escolher uma sugestão de texto~
+delivery~
+delivery optimization~
+delete~
+delete windows~
+delete windows.old~
+delete map~
+delete maps~
+delete files~
+deixar uma aplicação passar pela firewall do windows~
+deixar o windows sugerir as definições de facilidade de acesso~
+definições~
+definições usb~
+definições são sincronizadas neste pc~
+definições rápidas da microsoft~
+definições remotas~
+definições relacionadas~
+definições piloto~
+definições para conteúdo recebido utilizando tocar e enviar~
+definições dos mapas offline~
+definições dos ficheiros temporários da internet~
+definições do windows update~
+definições do windows defender~
+definições do touchpad~
+definições do teclado~
+definições do teclado tátil~
+definições do servidor proxy manual~
+definições do rato~
+definições do proxy de rede~
+definições do programa windows insider~
+definições do narrador~
+definições do narrador antes de iniciar sessão~
+definições do modo de tablet~
+definições do insider~
+definições do histórico de pesquisa~
+definições do filtro de cor~
+definições do ecrã de bloqueio~
+definições do dispositivo ligado~
+definições do cursor do narrador~
+definições do auxiliar de concentração~
+definições do ambiente de trabalho remoto~
+definições de áudio~
+definições de wi-fi~
+definições de vídeo~
+definições de visão da facilidade de acesso~
+definições de visualização~
+definições de visualização de acessibilidade~
+definições de utilização de dados~
+definições de trueplay~
+definições de transferências automáticas de ficheiros~
+definições de tipos de letra~
+definições de tipo de letra~
+definições de tipo de letra das legendas~
+definições de tamanho do ponteiro e do cursor~
+definições de tablet pc~
+definições de sistema avançadas~
+definições de sincronização~
+definições de segurança~
+definições de região e idioma~
+definições de rede móvel~
+definições de proxy~
+definições de programador~
+definições de privacidade~
+definições de privacidade para outros dispositivos~
+definições de privacidade do sistema de ficheiros~
+definições de privacidade do registo de chamadas~
+definições de privacidade do microfone~
+definições de privacidade do histórico de atividades~
+definições de privacidade do feedback~
+definições de privacidade do dispositivo de monitorização ocular~
+definições de privacidade do calendário~
+definições de privacidade de voz, tinta digital e escrita~
+definições de privacidade de tarefas~
+definições de privacidade de rádio~
+definições de privacidade de movimento~
+definições de privacidade de mensagens~
+definições de privacidade de informações de conta~
+definições de privacidade de e-mail~
+definições de privacidade de diagnóstico de aplicação~
+definições de privacidade de contactos~
+definições de privacidade da localização~
+definições de privacidade da câmara~
+definições de privacidade da biblioteca de vídeos~
+definições de privacidade da biblioteca de imagens~
+definições de privacidade da biblioteca de documentos~
+definições de personalização~
+definições de partilha avançadas~
+definições de otimização da entrega~
+definições de nova fonética da microsoft~
+definições de notificações e ações~
+definições de multitasking~
+definições de mitigação~
+definições de manutenção automática~
+definições de localização~
+definições de início~
+definições de introdução por toque~
+definições de interação da facilidade de acesso~
+definições de instalação de dispositivo~
+definições de idioma e teclado~
+definições de hotspot móvel.~
+definições de gráficos~
+definições de fundo~
+definições de fundo da legenda oculta~
+definições de facilidade de acesso~
+definições de experiência partilhada~
+definições de ethernet~
+definições de escrita~
+definições de energia e suspensão~
+definições de encriptação de dispositivo~
+definições de dispositivos~
+definições de discurso~
+definições de directaccess~
+definições de data e hora~
+definições de cópia de segurança~
+definições de cor~
+definições de conversão de texto em voz~
+definições de controlo ocular~
+definições de controlo de conta do utilizador~
+definições de changjie da microsoft~
+definições de chamadas wi-fi~
+definições de braille~
+definições de audição da facilidade de acesso~
+definições de aspeto~
+definições de aplicações~
+definições de ambiente de trabalho virtual~
+definições de alto contraste~
+definições de acesso telefónico~
+definições de acessibilidade atuais~
+definições das notificações da cortana~
+definições das contas de e-mail e aplicações~
+definições da área de transferência~
+definições da área de trabalho do windows ink~
+definições da roda~
+definições da reprodução automática~
+definições da placa de som~
+definições da lupa~
+definições da legendagem de áudio~
+definições da janela da legenda oculta~
+definições da imagem de conta e de perfil~
+definições da facilidade de acesso~
+definições da cortana e de pesquisa~
+definições da caneta~
+definições da barra de tarefas~
+definições bluetooth~
+definições avançadas de gestão de cores para monitores, scanners e impressoras~
+definições antes de efetuar uma apresentação~
+definição~
+definição definições~
+definir~
+definir um valor de calibragem personalizado para a windows mixed reality~
+definir plano~
+definir os programas predefinidos~
+definir movimentos para executar certas tarefas~
+definir limite~
+definir botões do tablet para executar determinadas tarefas~
+definir automaticamente o fuso horário~
+definir a qualidade visual da windows mixed reality~
+definir a hora automaticamente~
+defender~
+default~
+default sound~
+default protected folders~
+default printer~
+default defaults~
+default audio~
+default audio device~
+dedos no touchpad~
+dedos múltiplos~
+decryption~
+decode~
+de áudio~
+de áudio para vídeo~
+de áudio do narrador~
+de zoom da lupa~
+de wi-fi~
+de vídeo~
+de vídeos~
+de vídeo predefinido~
+de vídeo hdr~
+de vídeo com bateria~
+de voz~
+de voz, tinta digital e escrita~
+de voz na windows mixed reality~
+de voz do narrador~
+de volume~
+de visão da facilidade de acesso~
+de visualização~
+de visualização de acessibilidade~
+de verão~
+de utilização de dados~
+de utilizador~
+de utilizador local~
+de uma frase com o teclado tátil~
+de título~
+de trueplay~
+de transmissão em fluxo de multimédia~
+de transferência~
+de transferências automáticas de ficheiros~
+de trabalho~
+de trabalho virtual~
+de trabalho virtuais~
+de trabalho remoto~
+de trabalho remotos~
+de trabalho para este pc~
+de trabalho no fim da barra de tarefas~
+de trabalho está este computador~
+de trabalho do windows ink~
+de trabalho do windows ink.~
+de trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+de toque maior~
+de tipos de letra e definições relacionadas~
+de tipo de letra das legendas~
+de texto~
+de texto enquanto escrevo~
+de texto enquanto escrevo no teclado físico~
+de texto em voz~
+de texto ao utilizar a lupa~
+de terceiros~
+de tecla~
+de teclas curtos ou repetidos~
+de teclas com uma tecla de cada vez~
+de teclado~
+de teclado ou input method editor~
+de tecla acidentais repetidos~
+de tarefas~
+de tarefas, no ecrã principal~
+de tarefas, em ecrãs secundários~
+de tarefas pequenos~
+de tarefas no modo de tablet~
+de tarefas no ecrã~
+de tarefas em vários ecrãs~
+de tarefas em todos os ecrãs~
+de tarefas e o centro de ação transparentes~
+de tarefas e no centro de ação~
+de tarefas ao utilizar ambientes de trabalho virtuais~
+de tamanho do ponteiro e do cursor~
+de tablet~
+de tablet quando inicia sessão~
+de tablet pc~
+de tabela de saída de braille~
+de tabela de entrada de braille~
+de suporte do pc~
+de som~
+de sistema no gestor de tarefas~
+de sistema avançadas~
+de sincronização~
+de sessão~
+de sessão por íris~
+de sessão por impressão digital~
+de sessão por face~
+de sessão para todos os utilizadores~
+de sessão com pin~
+de segurança~
+de segurança do windows defender~
+de segurança da chave de recuperação~
+de segundo plano~
+de segundo plano do ecrã de bloqueio~
+de saída de áudio do narrador~
+de saída de braille~
+de rádio~
+de rotação para a posição ligada/desligada~
+de restauro~
+de reprodução de áudio~
+de reprodução de vídeo~
+de reprodução de som~
+de reposição de palavras-passe~
+de região e idioma~
+de rede~
+de rede móvel~
+de recuperação~
+de reconhecimento da escrita manual do seu pc.~
+de publicidade~
+de proxy~
+de proxy automática~
+de programas remoteapp e ambientes de trabalho remotos~
+de programador~
+de problemas~
+de problemas de rede~
+de privacidade~
+de privacidade para outros dispositivos~
+de privacidade do sistema de ficheiros~
+de privacidade do registo de chamadas~
+de privacidade do microfone~
+de privacidade do histórico de atividades~
+de privacidade do feedback~
+de privacidade do dispositivo de monitorização ocular~
+de privacidade do calendário~
+de privacidade de voz, tinta digital e escrita~
+de privacidade de tarefas~
+de privacidade de rádio~
+de privacidade de movimento~
+de privacidade de mensagens~
+de privacidade de informações de conta~
+de privacidade de e-mail~
+de privacidade de diagnóstico de aplicação~
+de privacidade de contactos~
+de privacidade da localização~
+de privacidade da câmara~
+de privacidade da biblioteca de vídeos~
+de privacidade da biblioteca de imagens~
+de privacidade da biblioteca de documentos~
+de pessoas favoritas~
+de pesquisa~
+de pesquisa para ficheiros e pastas~
+de pesquisa no internet explorer~
+de personalização~
+de perfil~
+de partilha avançadas~
+de palavras-passe~
+de outras aplicações quando o narrador está a falar~
+de otimização da entrega~
+de onde instalar aplicações~
+de nova fonética da microsoft~
+de notificações e ações~
+de notificação de braille~
+de notificação da barra de tarefas~
+de navegação~
+de música predefinido~
+de multitasking~
+de multimédia~
+de movimento~
+de monitorização ocular~
+de misturador de som~
+de mensagens~
+de memória do computador~
+de marcação~
+de mapas~
+de mapa predefinida~
+de manutenção recomendadas automaticamente~
+de manutenção automática~
+de lupa transparente~
+de luminosidade~
+de localizações~
+de localização~
+de letra~
+de letra e definições relacionadas~
+de letra das legendas~
+de jogos~
+de jogo usb~
+de jogo se abre e reconhece o jogo~
+de jogo para otimizar o pc para jogos~
+de início~
+de início de sessão~
+de introdução~
+de introdução por toque~
+de intermitência do cursor~
+de interação da facilidade de acesso~
+de instalação de dispositivo~
+de inserção de texto~
+de iniciar sessão~
+de informações de conta~
+de indexação~
+de imagens~
+de imagem~
+de idiomas~
+de idioma e teclado~
+de hotspot móvel.~
+de gráficos~
+de grupo~
+de gravação~
+de gestão de cores para monitores, scanners e impressoras~
+de fundo~
+de fundo do windows~
+de fundo da legenda oculta~
+de funcionamento do sistema~
+de funcionamento do dispositivo~
+de funcionalidades opcionais~
+de fotografias predefinido~
+de ficheiro~
+de ficheiros~
+de ficheiros e protocolos abertos por cada aplicação~
+de ficheiros e outras definições~
+de ficheiro abra sempre num programa específico~
+de fiabilidade~
+de fazer duplo toque na barra de espaço~
+de família~
+de falar com a cortana~
+de facilidade de acesso~
+de experiência partilhada~
+de execução da aplicação~
+de eventos~
+de ethernet~
+de estado de funcionamento do sistema~
+de espaço~
+de escrita~
+de escolher uma sugestão de texto~
+de entrada de braille~
+de entoação do narrador~
+de energia~
+de energia e suspensão~
+de encriptação de ficheiros~
+de encriptação de dispositivo~
+de efetuar uma apresentação~
+de ecrã~
+de ecrã e clipes de jogos~
+de ecrã azul~
+de e-mail~
+de e-mail predefinida~
+de e-mail e aplicações~
+de documentos~
+de dispositivo~
+de dispositivos~
+de dispositivos (mdm)~
+de discurso~
+de directaccess~
+de diapositivos ou cor sólida como modo de segundo plano~
+de diapositivos do ecrã de bloqueio~
+de diapositivos como modo de segundo plano do ecrã de bloqueio~
+de diagnóstico de aplicação~
+de detalhe que o narrador fornece acerca do texto~
+de destaque~
+de deslocamento no windows~
+de deslocamento do touchpad e o comportamento do zoom~
+de data e hora~
+de data e hora atuais~
+de dados~
+de dados odbc~
+de dados odbc (64 bits)~
+de dados odbc (32 bits)~
+de dados e dispositivos~
+de dados automaticamente~
+de cópia de segurança~
+de credenciais~
+de cor~
+de cores~
+de cores para monitores, scanners e impressoras~
+de cores alargada~
+de cor atual~
+de convites de assistência remota deste computador~
+de conversão de texto em voz~
+de controlo~
+de controlos e botões~
+de controlo ocular~
+de controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+de controlo de conta do utilizador~
+de contexto que o narrador fornece para botões e outros controlos~
+de conta~
+de contas~
+de contactos~
+de conta e de perfil~
+de conta do utilizador~
+de conectividade multijogador xbox live~
+de concentração~
+de computador~
+de comentários do narrador~
+de comandos pelo windows powershell ao utilizar windows + menu x~
+de coleção~
+de changjie da microsoft~
+de chamadas~
+de chamadas wi-fi~
+de carateres privados~
+de capturas de ecrã e clipes de jogos~
+de caneta e toque~
+de calibragem personalizado para a windows mixed reality~
+de cada vez~
+de cada vez para atalhos de teclado~
+de cada frase em maiúsculas~
+de braille~
+de braile intermitente~
+de botões e outros controlos~
+de bloqueio~
+de bateria~
+de banda larga~
+de ação~
+de ação transparentes~
+de avião~
+de audição da facilidade de acesso~
+de atualizações~
+de atividade~
+de atividades~
+de atalho~
+de atalhos em início ou na barra de tarefas~
+de atalho inicie o narrador~
+de assistência remota deste computador~
+de arranque~
+de arranque do windows to go~
+de arranque avançado~
+de armazenamento~
+de aprovisionamento~
+de aprendizagem~
+de aplicações~
+de aplicações recentemente adicionadas em início~
+de aplicações no menu iniciar~
+de aplicações na barra de tarefas no modo de tablet~
+de aplicações e browsers~
+de aplicações de 16 bits~
+de aplicações da área de trabalho do windows ink.~
+de aplicação~
+de ambiente para a sua conta~
+de ambiente do sistema~
+de ambiente de trabalho virtual~
+de ambiente capturados pela windows mixed reality~
+de alto contraste~
+de agrupar janelas semelhantes~
+de acesso~
+de acesso telefónico~
+de acesso nos menus, quando disponíveis~
+de acesso fácil~
+de acessibilidade~
+de acessibilidade atuais~
+de aceleração do ponteiro do rato por teclado~
+de aceitar um batimento de tecla~
+de 32 ou 64 bits~
+de 16 bits~
+daylight~
+date dates~
+data~
+datas e as listas são mostradas~
+data sense~
+data plan~
+data e hora~
+data e hora atuais~
+data datas~
+das teclas enquanto escrevo~
+das teclas de acesso nos menus, quando disponíveis~
+das notificações~
+das notificações da cortana~
+das legendas~
+das janelas~
+das imagens e de texto ao utilizar a lupa~
+das contas de e-mail e aplicações~
+dark~
+darker~
+dark mode~
+daltónico~
+daltonismo~
+dados~
+dados odbc~
+dados odbc (64 bits)~
+dados odbc (32 bits)~
+dados móveis~
+dados e dispositivos~
+dados de ambiente capturados pela windows mixed reality~
+dados automaticamente~
+da área de transferência~
+da área de trabalho do windows ink~
+da área de trabalho do windows ink.~
+da xbox one~
+da windows mixed reality~
+da voz do narrador~
+da utilização de dados~
+da roda~
+da reprodução automática~
+da rede~
+da rede da escola ou do trabalho~
+da ram~
+da placa de som~
+da pesquisa~
+da pesquisa, informação e privacidade da cortana~
+da pesquisa e de início~
+da microsoft~
+da lupa~
+da lupa para ícone de lupa transparente~
+da localização~
+da lente da lupa~
+da legendagem de áudio~
+da legenda oculta~
+da janela da legenda oculta~
+da internet~
+da imagem de conta e de perfil~
+da firewall~
+da família utilizem este pc~
+da facilidade de acesso~
+da escrita manual do seu pc.~
+da escola ou do trabalho~
+da entrega~
+da câmara~
+da cortana~
+da cortana quando o ecrã está bloqueado~
+da cortana e de pesquisa~
+da chave de recuperação~
+da caneta~
+da caneta.~
+da biblioteca de vídeos~
+da biblioteca de imagens~
+da biblioteca de documentos~
+da bateria~
+da barra de tarefas~
+da barra de tarefas pequenos~
+da barra de tarefas no ecrã~
+da apresentação das notificações~
+da aplicação~
+da aplicação os meus contactos~
+cópia~
+cópias~
+cópia segurança~
+cópia de segurança~
+cópia de segurança da chave de recuperação~
+cópia de segurança cópias de segurança~
+câmara~
+câmara para criar uma imagem de conta~
+c~
+cut~
+custom restart~
+curtos ou repetidos~
+cursor~
+cursors~
+cursores~
+cursor é apresentado num ecrã de braille~
+cursor do narrador~
+cursor do narrador segue o rato~
+cursor do narrador no ecrã~
+cursor do narrador e o foco do sistema~
+cursor de braile intermitente~
+cursor da caneta~
+cursor cursors~
+cursor cursores~
+cursor ao utilizar o touchpad~
+cue~
+cues~
+ctrl~
+ctrl e shift para ajustar a velocidade do ponteiro do rato por teclado~
+cryptolocker~
+cryptography~
+cronológica~
+criptografia~
+criar uma unidade de recuperação~
+criar uma imagem de conta~
+criar um ponto de restauro~
+criar um disco de reposição de palavras-passe~
+criar e formatar partições do disco rígido~
+crianças~
+criança crianças~
+credentials~
+credential guard~
+credenciais~
+credenciais web~
+credenciais do windows~
+cpu cpus~
+country~
+countries~
+cor~
+cortar~
+cortana~
+cortana"~
+cortana quando o ecrã está bloqueado~
+cortana premindo a tecla do logótipo do windows + c~
+cortana notification~
+cortana notifications~
+cortana me consegue ouvir.~
+cortana e de pesquisa~
+cortana dizendo "olá cortana"~
+cortana consegue fazer, ver e utilizar~
+cortana can hear~
+corrigir~
+corrigir texto desfocado~
+corrigir problemas no teclado~
+corrigir problemas de reprodução de áudio~
+corrigir problemas de gravação~
+corrigir problemas de ecrã azul~
+corrigir problemas com o windows search~
+corrigir problemas com o computador~
+corrigir problemas com dispositivos~
+corrigir ligação de rede~
+corrigir erros ortográficos automaticamente~
+corrigir corrige~
+corrigir correções~
+corrigir automaticamente~
+corrigir automaticamente gralhas ao escrever~
+corrigir aplicações que estejam desfocadas~
+corrige~
+correções~
+correções automáticas~
+correção~
+correção correções~
+correção automática~
+correção automática correções automáticas~
+corrente~
+correio~
+correio eletrónico~
+correct~
+corrects~
+correction~
+corrections~
+correction corrections~
+correct corrects~
+corporate~
+cores~
+cores para monitores, scanners e impressoras~
+cores mortas~
+cores esbatidas~
+cores ao utilizar a lupa~
+cores alargada~
+core isolation~
+cor à barra de título~
+cor sólida, padrão de fundo~
+cor sólida como modo de segundo plano~
+cor hd~
+cor em início, na barra de tarefas e no centro de ação~
+cor do ponteiro do rato~
+cor do ecrã~
+cor de destaque~
+cor cores~
+cor atual~
+copy~
+copies~
+copiar~
+copiar cópias~
+cookies ou ficheiros temporários~
+cookies de terceiros~
+cookies de sessão~
+convites de assistência remota deste computador~
+convidar alguém para se ligar ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+conversão de texto em voz~
+control~
+controls~
+controlo~
+controlos~
+controlos e botões~
+controlo remoto da caneta~
+controlo ocular~
+controlo familiar~
+controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+controlo do menor~
+controlo de menores~
+controlo de instalação de aplicações~
+controlo de conteúdo web~
+controlo de conta do utilizador~
+controlo de aplicações e browsers~
+controlo das crianças~
+controller~
+controlled folder~
+controlled folder access~
+controlar~
+controlar o ponteiro do rato com o teclado~
+controlar o modo de jogo para otimizar o pc para jogos~
+controlar o computador sem o rato ou sem o teclado~
+controlar definições de trueplay~
+controlar como pretende captar o jogo através de capturas de ecrã e clipes de jogos~
+controlar a forma como o jogo é apresentado quando o difunde~
+controlar a forma como a barra de jogo se abre e reconhece o jogo~
+controlador~
+controladores~
+controladores de jogo usb~
+controlador predefinido do seu ecrã de braille~
+controlador controladores~
+controlado a pastas~
+contrast~
+contraste~
+contra vírus e ameaças~
+contra ransomware~
+continue now~
+continue later~
+continue app experiences~
+continuar mais tarde~
+continuar experiências da aplicação~
+continuar agora~
+conteúdos para adultos dos seus resultados de pesquisa~
+conteúdo sdr~
+conteúdo recebido utilizando tocar e enviar~
+conteúdo do dicionário de utilizador local~
+context~
+contextual~
+contextuais~
+contexto~
+contexto que o narrador fornece para botões e outros controlos~
+contexto de botões e outros controlos~
+context order~
+conta~
+contas~
+contas de e-mail~
+contas de e-mail e aplicações~
+contas de aplicações~
+contacts~
+contactos~
+contactos na barra de tarefas~
+contactos mostrar na barra de tarefas~
+contacto contactos~
+contact contacts~
+conta para acesso atribuído~
+conta escolar ou profissional~
+conta e de perfil~
+conta do utilizador~
+conta contas~
+consegue ouvir.~
+consegue fazer, ver e utilizar~
+connect~
+connected apps and devices~
+connect connects~
+connect connection~
+conjunto~
+conjuntos~
+conjunto de temas~
+conjunto conjuntos~
+configurações~
+configuração~
+configuração do microfone~
+configuração de proxy automática~
+configuração configurações~
+configuration configurations~
+configurar~
+configurar uma palavra-passe por imagem~
+configurar uma ligação de banda larga~
+configurar um microfone~
+configurar um iniciador iscsi~
+configurar regras de marcação~
+configurar origens de dados odbc~
+configurar origens de dados odbc (64 bits)~
+configurar origens de dados odbc (32 bits)~
+configurar o servidor proxy~
+configurar início de sessão por íris~
+configurar início de sessão por impressão digital~
+configurar início de sessão por face~
+configurar início de sessão com pin~
+configurar controladores de jogo usb~
+confiança~
+conectividade multijogador xbox live~
+conclusão automática no internet explorer~
+concentração~
+concebidos para versões anteriores do windows~
+com~
+comutador~
+comutador único~
+comum~
+computer~
+computer slow~
+computer performance~
+computer health~
+computador~
+computadores e dispositivos de rede~
+computador sem o rato ou sem o teclado~
+computador se encontra~
+computador para reconhecer a sua voz~
+computador lento~
+computador e resolver problemas~
+composição~
+comportamento do zoom~
+comportamento do botão de atalho~
+comportamento da cortana quando o ecrã está bloqueado~
+compilações de previsualização~
+compilação anterior~
+company~
+company companies~
+companhia~
+como utilizar o windows~
+como pretende captar o jogo através de capturas de ecrã e clipes de jogos~
+como pretende abrir as ligações~
+como personalizar as barras de tarefas~
+como o windows efetua pesquisas~
+como o jogo é apresentado quando o difunde~
+como o cursor é apresentado num ecrã de braille~
+como o bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+como modo de segundo plano~
+como modo de segundo plano do ecrã de bloqueio~
+como as páginas web são mostradas em separadores~
+como as medidas são mostradas~
+como as datas e as listas são mostradas~
+como a moeda é mostrada~
+como a barra de jogo se abre e reconhece o jogo~
+common~
+command~
+command-line arguments~
+command prompt~
+começar de novo~
+comentários~
+comentários do narrador~
+combinações de teclas com uma tecla de cada vez~
+comando~
+comandos sem fios da xbox one~
+comandos pelo windows powershell ao utilizar windows + menu x~
+comando remoto da caneta~
+com uma tecla de cada vez~
+com um atalho de teclado~
+com três dedos no touchpad~
+com que um tipo de ficheiro abra sempre num programa específico~
+com quatro dedos no touchpad~
+com pin~
+com o windows search~
+com o teclado~
+com o teclado tátil~
+com o narrador~
+com o histórico de ficheiros~
+com o ecrã quando utilizar o rato~
+com o computador~
+com o botão direito no touchpad~
+com o botão direito ao tocar com dois dedos no touchpad~
+com dois dedos no touchpad~
+com dispositivos~
+com bateria~
+com a windows mixed reality~
+com a roda do rato~
+com a cortana~
+coluna~
+colunas~
+column~
+columns~
+color~
+colors~
+colorspace~
+colors washed out~
+colors dull~
+colorblind~
+colorblindness~
+color format~
+color depth~
+color colors~
+colocar em pausa~
+colocar em maiúsculas~
+colocar em maiúsculas a primeira letra de uma frase com o teclado tátil~
+coleções~
+coleção~
+colar~
+codificação codificações~
+cloud~
+clock clocks~
+clique~
+cliques~
+clique único ou duplo clique para abrir~
+clique para abrir~
+clique com o botão direito no touchpad~
+clique com o botão direito do rato~
+clique com o botão direito ao tocar com dois dedos no touchpad~
+clique cliques~
+clip~
+clipes de jogos~
+clipboard~
+click~
+clicks~
+click clicks~
+clicar com o botão direito do rato~
+clicar ao utilizar o touchpad~
+cleartype~
+clear tpm~
+clean~
+cleanup~
+clean-up~
+clean up storage~
+clean unnecessary files~
+clean temporary files~
+clean space~
+clean install~
+clean drive~
+clean disk~
+clean cache~
+classificação do hardware~
+classificação do dispositivo~
+claro~
+choose window~
+choose chose~
+child~
+children~
+children security~
+children safe~
+children safe online~
+children control~
+child security~
+child safe~
+child safe online~
+child control~
+child children~
+check windows updates~
+check network status~
+check microphone~
+check for~
+check checks~
+cheat~
+chave de recuperação~
+character~
+characters~
+character echo~
+chaperone~
+channel~
+channels~
+changjie da microsoft~
+change~
+change limit~
+change changes~
+chamadas~
+chamadas wi-fi~
+cfg~
+cesto da reciclagem~
+certificados de utilizador~
+certificados de encriptação de ficheiros~
+certificados de computador~
+certas tarefas~
+centro de sincronização~
+centro de segurança~
+centro de segurança do windows defender~
+centro de facilidade de acesso~
+centro de ação~
+centro de ação transparentes~
+center~
+cellular~
+cegos~
+cds ou outros suportes de dados automaticamente~
+cast~
+case~
+caráter~
+caret~
+carateres~
+carateres privados~
+carateres digitados~
+capturas de ecrã e clipes de jogos~
+capturados pela windows mixed reality~
+captions~
+captioning~
+captar o jogo através de capturas de ecrã e clipes de jogos~
+caps~
+capslock~
+caps-lock~
+caps lock~
+caps lock, num lock ou scroll lock~
+caps lock e~
+caps lock + e~
+caps lock + e + e~
+caps e~
+caps + e~
+caps + e + e~
+capital~
+capitals~
+capitalize~
+capital capitals~
+capacidades de aprendizagem~
+cantos do ecrã~
+canhoto~
+caneta~
+canetas~
+caneta.~
+caneta ou por toque~
+caneta e toque~
+caneta canetas~
+canal~
+canal áudio~
+canais~
+calibration~
+calibrar o ecrã para introdução a caneta ou por toque~
+calibrar a cor do ecrã~
+calibragem~
+calibragem personalizado para a windows mixed reality~
+calendário~
+calendário lunar~
+calendário lunar e feriados~
+caixa~
+caixas de diálogo~
+caixa de diálogo~
+caixa azul~
+cada vez~
+cada vez para atalhos de teclado~
+cada tipo de ficheiro~
+cada site~
+cada protocolo~
+cada frase em maiúsculas~
+cada aplicação~
+básicas sobre o computador~
+bypass~
+button buttons~
+busy~
+browser~
+browsers~
+browser predefinido~
+browser browsers~
+broadcast~
+broadcasting~
+broadband~
+bright~
+braille~
+braile intermitente~
+box~
+boundary,privacidade ambiente~
+bounce~
+botões~
+botões e outros controlos~
+botões do tablet para executar determinadas tarefas~
+botões da barra de tarefas pequenos~
+botão principal no rato~
+botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+botão direito no touchpad~
+botão direito ao tocar com dois dedos no touchpad~
+botão de atalho~
+botão da caneta~
+botão botões~
+boot boots~
+blurry~
+blurry apps~
+blue~
+bluetooth~
+bluetooth lock~
+bluetooth e outras definições de dispositivos~
+blue box~
+bloqueio~
+bloqueio do telemóvel~
+bloqueio dinâmico~
+bloqueio de rotação para a posição ligada/desligada~
+bloqueio de bluetooth~
+bloqueio bloqueios bloquear~
+bloqueio bloquear bloqueios~
+bloqueia~
+bloquear~
+bloquear ou permitir pop-ups~
+bloquear ou permitir cookies de terceiros~
+bloquear bloqueia~
+bloquear acesso~
+bloquear a barra de tarefas~
+bloqueado~
+bloqueada~
+block~
+block access~
+black bars~
+black and white~
+bits~
+bits)~
+bitlocker~
+bit depth~
+bios~
+bio biométrico biométrica biometria~
+bio biometric biometrics~
+bin~
+bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+big~
+biblioteca de vídeos~
+biblioteca de imagens~
+biblioteca de documentos~
+biblioteca bibliotecas~
+best free antivirus~
+before~
+battery~
+battery saver~
+battery batteries~
+batteries~
+batimentos de teclas curtos ou repetidos~
+batimentos de tecla acidentais repetidos~
+batimento de tecla~
+bateria~
+bateria baterias~
+bar~
+barra~
+barras pretas~
+barras de tarefas~
+barras de deslocamento~
+barras de deslocamento no windows~
+barra tarefas~
+barra deslocamento~
+barra de título~
+barra de tarefas~
+barra de tarefas, no ecrã principal~
+barra de tarefas, em ecrãs secundários~
+barra de tarefas pequenos~
+barra de tarefas no modo de tablet~
+barra de tarefas no ecrã~
+barra de tarefas em vários ecrãs~
+barra de tarefas em todos os ecrãs~
+barra de tarefas e o centro de ação transparentes~
+barra de tarefas e no centro de ação~
+barra de tarefas ao utilizar ambientes de trabalho virtuais~
+barra de jogo se abre e reconhece o jogo~
+barra de espaço~
+barra de espaços~
+barra de deslocamento~
+banda larga~
+badge~
+badges~
+backup~
+backup backups~
+background~
+backgrounds~
+background backgrounds~
+back-up back-ups~
+ações~
+ações rápidas~
+ação~
+ação transparentes~
+ação ações~
+a~
+azure~
+azul~
+avião~
+aviso~
+avisos~
+avançado~
+avançadas~
+avançadas do windows update~
+avançadas do ecrã~
+avançadas de gestão de cores para monitores, scanners e impressoras~
+auxiliar de concentração~
+auto~
+autoupdate~
+autoupdate autoupdates~
+autostart~
+autoshift~
+autoplay~
+automático~
+automática~
+automáticas de ficheiros~
+automática para todos os suportes de dados e dispositivos~
+automática no internet explorer~
+automática das janelas~
+automatic~
+automaticamente~
+automaticamente quando inicia o windows~
+automaticamente quaisquer janelas encaixadas adjacentes~
+automaticamente para preencher o espaço livre disponível~
+automaticamente o fuso horário~
+automaticamente gralhas ao escrever~
+automaticamente as barras de deslocamento no windows~
+automaticamente arrastando-as para as extremidades ou cantos do ecrã~
+automaticamente após o início de sessão~
+automaticamente antes do início de sessão para todos os utilizadores~
+automaticamente a luminosidade quando a iluminação se altera~
+automaticamente a barra de tarefas~
+automaticamente a barra de tarefas no modo de tablet~
+automatically~
+automatically sign in~
+automatic updates~
+automatic file downloads~
+autohide~
+autocorreções~
+autocorreção~
+autocorreção autocorreções~
+autocorrect~
+autocorrects~
+autocorrection~
+autocorrections~
+autocorrection autocorrections~
+autocorrect autocorrects~
+auto-start~
+auto-shift~
+auto-correct~
+auto-corrects~
+auto-correction~
+auto-corrections~
+auto-correction auto-corrections~
+auto-correct auto-corrects~
+auto restart~
+auto layout~
+auscultadores~
+aumentar~
+audição~
+audição da facilidade de acesso~
+audio~
+audio device~
+audio cue~
+audio cues~
+audio channel~
+atual~
+atualizações~
+atualizações instaladas~
+atualizações do windows~
+atualizações de mapa~
+atualizações de mapas~
+atualizações automáticas~
+atualização~
+atualização windows~
+atualização do windows~
+atualização de mapa~
+atualização de mapas~
+atualização automática~
+atualização automática atualizações automáticas~
+atualizar~
+atualizar funcionalidades~
+atualizar atualizações~
+atualizar atualiza~
+atualizador~
+atualizador windows~
+atuais~
+atribuído~
+através de capturas de ecrã e clipes de jogos~
+atraso no trackpad~
+atraso no touchpad~
+ativo~
+atividade~
+atividades~
+ative as sugestões de aplicações da área de trabalho do windows ink.~
+ativação~
+ativação do wifi~
+ativação ativações~
+ativar~
+ativar/desativar movimentos~
+ativar toques~
+ativar teclas de acesso fácil~
+ativar remoto~
+ativar ou desativar ícones do sistema~
+ativar ou desativar reprodução automática~
+ativar ou desativar o áudio mono~
+ativar ou desativar o touchpad~
+ativar ou desativar o narrador~
+ativar ou desativar notificações de aplicações~
+ativar ou desativar modo de avião~
+ativar ou desativar hora de verão~
+ativar ou desativar funcionalidades do windows~
+ativar ou desativar filtros de cor~
+ativar ou desativar dispositivos sem fios~
+ativar ou desativar deteção de proxy automática~
+ativar ou desativar cookies de sessão~
+ativar ou desativar braille~
+ativar ou desativar a proteção de ecrã~
+ativar ou desativar a poupança de bateria~
+ativar ou desativar a lupa~
+ativar ou desativar a conclusão automática no internet explorer~
+ativar ou desativar a apresentação de diapositivos do ecrã de bloqueio~
+ativar o portal do dispositivo~
+ativar hdr e gama de cores alargada~
+ativar ativa~
+ativar a deteção de dispositivos~
+ativado~
+ativa ou desativa o modo de tablet~
+atalho~
+atalhos~
+atalhos para a caneta~
+atalhos em início ou na barra de tarefas~
+atalhos de teclado~
+atalhos das teclas de acesso nos menus, quando disponíveis~
+atalhos da caneta.~
+atalho inicie o narrador~
+atalho de teclado~
+associação~
+associação de telemóvel~
+associated~
+associar~
+associar telemóvel~
+associar telemóvel e pc~
+associar o seu telemóvel~
+associado~
+assistência~
+assistência snap~
+assistência remota deste computador~
+assist~
+assistente de estado de funcionamento~
+aspeto~
+aspetos~
+aspeto e o desempenho do windows~
+aspeto do ponteiro do rato ao mover-se~
+aspect ratio~
+as variáveis de ambiente do sistema~
+as unidades~
+as teclas são premidas~
+as teclas presas, sonoras ou lentas com um atalho de teclado~
+as teclas ctrl e shift para ajustar a velocidade do ponteiro do rato por teclado~
+as sugestões de aplicações da área de trabalho do windows ink.~
+as suas palavras-passe neste pc~
+as suas informações~
+as suas definições~
+as suas definições de personalização~
+as suas ações rápidas~
+as páginas web são mostradas em separadores~
+as preferências de facilidade de acesso~
+as predefinições do touchpad~
+as permissões e o histórico da pesquisa~
+as pausas de entoação do narrador~
+as pastas que são apresentadas em início~
+as para as extremidades ou cantos do ecrã~
+as opções de pesquisa para ficheiros e pastas~
+as minhas informações~
+as medidas são mostradas~
+as margens das imagens e de texto ao utilizar a lupa~
+as listas são mostradas~
+as ligações~
+as janelas apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+as janelas apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+as funcionalidades do windows são apresentadas~
+as extremidades ou cantos do ecrã~
+as definições são sincronizadas neste pc~
+as definições dos ficheiros temporários da internet~
+as definições do rato~
+as definições de visualização~
+as definições de segurança~
+as definições de idioma e teclado~
+as definições de facilidade de acesso~
+as definições das notificações da cortana~
+as definições das contas de e-mail e aplicações~
+as definições da placa de som~
+as definições da caneta~
+as definições antes de efetuar uma apresentação~
+as datas e as listas são mostradas~
+as barras de tarefas~
+as barras de deslocamento no windows~
+as aplicações substituam o comportamento do botão de atalho~
+as aplicações que podem ser executadas em segundo plano~
+as aplicações que mostram notificações~
+as aplicações podem utilizar o seu id de publicidade~
+as aplicações mais utilizadas em início~
+as aplicações estão desfocadas~
+arrastar~
+arrastar três dedos no touchpad~
+arrastar no touchpad~
+arrastar dois dedos no touchpad~
+arrastando-as para as extremidades ou cantos do ecrã~
+arrasta três dedos no touchpad~
+arrasta quatro dedos no touchpad~
+arranque~
+arranque seguro~
+arranque do windows to go~
+arranque avançado~
+arranque arranques~
+arrange~
+arquivadas~
+arm~
+armazenamento~
+armazenamento livre~
+argumentos da linha de comandos~
+após~
+após reinício~
+após o início de sessão~
+aproximar dois dedos no touchpad~
+aprovisionar~
+aprovisionamento~
+apresentações~
+apresentação~
+apresentação de diapositivos~
+apresentação de diapositivos ou cor sólida como modo de segundo plano~
+apresentação de diapositivos do ecrã de bloqueio~
+apresentação de diapositivos como modo de segundo plano do ecrã de bloqueio~
+apresentação de diapositivo apresentações de diapositivos~
+apresentação das notificações~
+apresentar sugestões ocasionais em início~
+apresentar o grupo de aplicações recentemente adicionadas em início~
+apresentar o estado rápido~
+apresentar o estado detalhado~
+apresentar itens abertos recentemente em listas de atalhos em início ou na barra de tarefas~
+apresentar as aplicações mais utilizadas em início~
+apresentam na barra de tarefas ao utilizar ambientes de trabalho virtuais~
+apresentam ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+apresentados na barra de tarefas~
+apresentado quando o difunde~
+apresentado num ecrã de braille~
+apresentadas~
+apresentadas em início~
+aprendizagem~
+app~
+apps~
+apps to open websites~
+apps permitidas~
+apps for websites~
+apps are blurry~
+applinks~
+applications~
+appearances~
+appearance settings~
+app volume~
+app suggestions~
+app sounds~
+app restart~
+app reopen~
+app protection~
+app output~
+app links~
+app is blurry~
+app installation control,loja~
+app for websites~
+app execution alias~
+app apps~
+app alias~
+app access~
+apoio~
+apn~
+aplicações~
+aplicações web~
+aplicações substituam o comportamento do botão de atalho~
+aplicações removidas~
+aplicações recentemente adicionadas em início~
+aplicações que podem ser executadas em segundo plano~
+aplicações que mostram notificações~
+aplicações que estejam desfocadas~
+aplicações quando o narrador está a falar~
+aplicações podem utilizar o seu id de publicidade~
+aplicações permitidas~
+aplicações para sites~
+aplicações para apresentar o estado rápido~
+aplicações para abrir sites~
+aplicações no menu iniciar~
+aplicações na barra de tarefas no modo de tablet~
+aplicações mais utilizadas em início~
+aplicações estão a afetar a duração da bateria~
+aplicações e outros itens~
+aplicações e funcionalidades~
+aplicações e dispositivos ligadas~
+aplicações e browsers~
+aplicações desfocadas~
+aplicações de 16 bits~
+aplicações da área de trabalho do windows ink.~
+aplicação~
+aplicação predefinida para cada tipo de ficheiro~
+aplicação predefinida para cada site~
+aplicação predefinida para cada protocolo~
+aplicação passar pela firewall do windows~
+aplicação para sites~
+aplicação para criar uma imagem de conta~
+aplicação para apresentar o estado detalhado~
+aplicação os meus contactos~
+aplicação de mapa predefinida~
+aplicação de e-mail predefinida~
+aplicação de controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+aplicação de arranque~
+aplicação aplicações~
+aplicar cor à barra de título~
+aplicar cor em início, na barra de tarefas e no centro de ação~
+aperfeiçoar~
+apenas quando num lock está ativado~
+apenas online~
+apenas maiúsculas quando faço duplo toque na tecla shift~
+aparências~
+apagar~
+apagar ficheiros~
+ao windows 8~
+ao windows 8.1~
+ao windows 7~
+ao utilizar windows + menu x~
+ao utilizar o touchpad~
+ao utilizar ambientes de trabalho virtuais~
+ao utilizar a lupa~
+ao tocar com três dedos no touchpad~
+ao tocar com quatro dedos no touchpad~
+ao tocar com dois dedos no touchpad~
+ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+ao seu lado~
+ao premir alt+tab quando utiliza ambientes de trabalho virtuais~
+ao premir a tecla caps lock, num lock ou scroll lock~
+ao mover-se~
+ao ligar as teclas presas, sonoras ou lentas com um atalho de teclado~
+ao escrever~
+ao domínio na nuvem da escola ou do trabalho~
+ao domínio da escola ou do trabalho~
+ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+ao computador~
+ao arrastar três dedos no touchpad~
+ao arrastar dois dedos no touchpad~
+ao aproximar dois dedos no touchpad~
+anúncio anúncios~
+análise~
+análise rápida~
+análise offline~
+análise completa~
+análise agendada~
+anular adesão~
+anti~
+antivírus~
+antivírus windows 10~
+antivírus gratuito, anti-vírus grátis~
+antivírus do windows defender~
+antivirus~
+antivirus software~
+antivirus free~
+antitruque~
+antimalware~
+antigos~
+anticheat~
+anti-vírus~
+anti-virus~
+anti-alias~
+anti vírus~
+anti virus~
+anti malware~
+antes~
+antes do início de sessão para todos os utilizadores~
+antes de iniciar sessão~
+antes de efetuar uma apresentação~
+antes de aceitar um batimento de tecla~
+anterior~
+anteriores do windows~
+announcement announcements~
+animações~
+animações no windows~
+animação~
+animation~
+animations~
+android~
+analisar offline~
+ampliar~
+ampliar partes do ecrã utilizando a lupa~
+amovível~
+ameaças~
+ambient~
+ambiente~
+ambientes de trabalho virtuais~
+ambientes de trabalho remotos~
+ambiente para a sua conta~
+ambiente do sistema~
+ambiente de trabalho virtual~
+ambiente de trabalho remoto~
+ambiente de trabalho no fim da barra de tarefas~
+ambiente de trabalho ao deslocar o rato para o botão mostrar o ambiente de trabalho no fim da barra de tarefas~
+ambiente capturados pela windows mixed reality~
+alt~
+alttab~
+alto~
+alto contraste~
+altifalante~
+altifalantes~
+altifalantes a utilizar com a windows mixed reality~
+altere os atalhos da caneta.~
+altere o atraso no touchpad~
+altera~
+alterar~
+alterar tema de alto contraste~
+alterar redes privadas virtuais (vpn)~
+alterar quando o pc estiver suspenso~
+alterar quando o pc estiver suspenso quando ligado à corrente~
+alterar quando o pc estiver suspenso estando ligado à bateria~
+alterar quando o ecrã está desativado~
+alterar proteção de ecrã~
+alterar os sons do sistema~
+alterar os requisitos de início de sessão~
+alterar opções de arranque do windows to go~
+alterar opções de arranque avançado~
+alterar o volume da voz do narrador~
+alterar o tom de voz do narrador~
+alterar o tipo de tabela de saída de braille~
+alterar o tipo de tabela de entrada de braille~
+alterar o tempo limite de notificação de braille~
+alterar o tamanho do texto, aplicações e outros itens~
+alterar o tamanho do ponteiro do rato~
+alterar o tamanho da lente da lupa~
+alterar o que sucede quando fecho a tampa~
+alterar o que acontece quando toca ou arrasta três dedos no touchpad~
+alterar o que acontece quando toca ou arrasta quatro dedos no touchpad~
+alterar o que acontece quando arrasta quatro dedos no touchpad~
+alterar o que acontece ao tocar com três dedos no touchpad~
+alterar o que acontece ao tocar com quatro dedos no touchpad~
+alterar o que acontece ao arrastar três dedos no touchpad~
+alterar o perfil de cor atual~
+alterar o país ou região~
+alterar o nível de zoom da lupa~
+alterar o nível de luminosidade~
+alterar o nível de detalhe que o narrador fornece acerca do texto~
+alterar o nível de contexto que o narrador fornece para botões e outros controlos~
+alterar o meu nome~
+alterar o idioma em que as funcionalidades do windows são apresentadas~
+alterar o idioma de saída de braille~
+alterar o idioma de entrada de braille~
+alterar o idioma da cortana~
+alterar o fornecedor de pesquisa no internet explorer~
+alterar o formato de data e hora~
+alterar o ecrã principal~
+alterar o controlador predefinido do seu ecrã de braille~
+alterar o comportamento da cortana quando o ecrã está bloqueado~
+alterar o botão principal no rato~
+alterar o aspeto do ponteiro do rato ao mover-se~
+alterar nível de volume~
+alterar nome do grupo de trabalho~
+alterar métodos de introdução~
+alterar limite~
+alterar informações sobre calendário lunar e feriados~
+alterar incremento de zoom da lupa~
+alterar horas de atividade~
+alterar definições para conteúdo recebido utilizando tocar e enviar~
+alterar definições do servidor proxy manual~
+alterar definições do histórico de pesquisa~
+alterar definições de wi-fi~
+alterar definições de visualização de acessibilidade~
+alterar definições de tipo de letra das legendas~
+alterar definições de rede móvel~
+alterar definições de proxy~
+alterar definições de manutenção automática~
+alterar definições de introdução por toque~
+alterar definições de instalação de dispositivo~
+alterar definições de hotspot móvel.~
+alterar definições de experiência partilhada~
+alterar definições de ethernet~
+alterar definições de encriptação de dispositivo~
+alterar definições de directaccess~
+alterar definições de conversão de texto em voz~
+alterar definições de controlo de conta do utilizador~
+alterar definições de chamadas wi-fi~
+alterar definições de braille~
+alterar definições de acesso telefónico~
+alterar definições avançadas de gestão de cores para monitores, scanners e impressoras~
+alterar automaticamente a luminosidade quando a iluminação se altera~
+alterar as permissões e o histórico da pesquisa~
+alterar as opções de pesquisa para ficheiros e pastas~
+alterar as definições dos ficheiros temporários da internet~
+alterar as definições do rato~
+alterar as definições de visualização~
+alterar as definições de segurança~
+alterar as definições das notificações da cortana~
+alterar as definições da placa de som~
+alterar as definições da caneta~
+alterar alteração~
+alterar alteração alterações~
+alterar a voz do narrador~
+alterar a visualização ou a velocidade do ponteiro do rato~
+alterar a vista da lupa~
+alterar a velocidade do cursor ao utilizar o touchpad~
+alterar a velocidade de intermitência do cursor~
+alterar a velocidade da voz do narrador~
+alterar a sua palavra-passe~
+alterar a sua imagem de conta~
+alterar a resolução do ecrã~
+alterar a otimização do desempenho na realidade mista~
+alterar a orientação do ecrã~
+alterar a ordem que o narrador utiliza para ler o contexto de botões e outros controlos~
+alterar a impressora predefinida~
+alterar a imagem no ecrã de bloqueio~
+alterar a home page~
+alterar a forma de falar com a cortana~
+alterar a forma como o windows efetua pesquisas~
+alterar a forma como o bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+alterar a forma como as páginas web são mostradas em separadores~
+alterar a forma como as medidas são mostradas~
+alterar a forma como as datas e as listas são mostradas~
+alterar a forma como a moeda é mostrada~
+alterar a espessura do cursor~
+alterar a distância deslocada com a roda do rato~
+alterar a direção de deslocamento do touchpad e o comportamento do zoom~
+alterar a data e hora~
+alterar a cor do ponteiro do rato~
+alt+tab quando utiliza ambientes de trabalho virtuais~
+allowed apps~
+allowed applications~
+allow remote~
+allow apps~
+allow applications~
+alias~
+aliases de execução da aplicação~
+alias de execução da aplicação~
+alias da aplicação~
+alguém~
+alguém para se ligar ao seu pc e ajudá-lo ou oferecer-se para ajudar alguém~
+alerts~
+alerta~
+alertas~
+alertas visíveis~
+alerta visual para notificações de áudio~
+alerta ao ligar as teclas presas, sonoras ou lentas com um atalho de teclado~
+album~
+alargada~
+ajustá-la automaticamente para preencher o espaço livre disponível~
+ajuste de imagem~
+ajustar texto cleartype~
+ajustar o volume do sistema~
+ajustar o aspeto e o desempenho do windows~
+ajustar janelas~
+ajustar filtros de cor~
+ajustar as definições antes de efetuar uma apresentação~
+ajustar a velocidade máxima do ponteiro do rato por teclado~
+ajustar a velocidade do ponteiro do rato por teclado~
+ajustar a rapidez de aceleração do ponteiro do rato por teclado~
+ajustar a luminosidade do conteúdo sdr~
+ajudá-lo ou oferecer-se para ajudar alguém~
+ajuda~
+ajudas visuais~
+ajudas de áudio~
+ajudar alguém~
+airplane~
+aguardar antes de aceitar um batimento de tecla~
+agrupar janelas semelhantes~
+agrupar janelas semelhantes na barra de tarefas, no ecrã principal~
+agrupar janelas semelhantes na barra de tarefas, em ecrãs secundários~
+agendar~
+agendar tarefas~
+agendar reinício~
+agendar o reinício~
+after~
+afixar afixações~
+afetar a duração da bateria~
+aero~
+aero snap~
+ad~
+adware~
+advertising~
+advanced sound~
+adultos dos seus resultados de pesquisa~
+administração~
+administrator~
+administrator administrators~
+administrativas~
+administrater~
+administrador~
+administrador administradores~
+admin admins~
+adjust~
+adjust windows~
+adjacentes~
+adicionar~
+adicionar, remover ou gerir contas de e-mail~
+adicionar, remover ou gerir contas de aplicações~
+adicionar, editar ou remover outras pessoas~
+adicionar uma pasta à apresentação de diapositivos do ecrã de bloqueio~
+adicionar uma funcionalidade opcional~
+adicionar um ponto depois de fazer duplo toque na barra de espaço~
+adicionar um idioma a este dispositivo~
+adicionar um esquema de teclado ou input method editor~
+adicionar um espaço quando escolher uma sugestão de texto~
+adicionar um ecrã de braille~
+adicionar remover gerir~
+adicionar ponto depois de fazer duplo toque na barra de espaço~
+adicionar pacote~
+adicionar ou remover um pacote de aprovisionamento~
+adicionar ou remover programas~
+adicionar ou remover dispositivos~
+adicionar impressora~
+adicionar espaço depois de escolher uma sugestão de texto~
+adicionar adição adiciona~
+adicionar adiciona~
+adicional~
+adicionadas em início~
+aderir~
+add~
+additional~
+add remove manage~
+add printer~
+add package~
+add adds~
+ad ads~
+activities~
+active~
+active hours~
+active hours windows 10~
+active directory~
+activation activations~
+activate~
+activate activates~
+action actions~
+acrescentar~
+acontece quando toca ou arrasta três dedos no touchpad~
+acontece quando toca ou arrasta quatro dedos no touchpad~
+acontece quando o dispositivo ativa ou desativa o modo de tablet~
+acontece quando arrasta quatro dedos no touchpad~
+acontece ao tocar com três dedos no touchpad~
+acontece ao tocar com quatro dedos no touchpad~
+acontece ao arrastar três dedos no touchpad~
+acompanha o ponto de inserção de texto~
+acompanha o foco do teclado~
+acompanha o foco do narrador~
+acidentais repetidos~
+acesso~
+acesso à pasta~
+acesso telefónico~
+acesso remoto~
+acesso remoto ao computador~
+acesso nos menus, quando disponíveis~
+acesso fácil~
+acesso controlado a pastas~
+acesso atribuído~
+acesso a aplicações~
+acessibilidade~
+acessibilidade atuais~
+acertar~
+acerca do texto~
+acerca da pesquisa, informação e privacidade da cortana~
+acento circunflexo~
+aceleração~
+aceleração do ponteiro do rato por teclado~
+acelera~
+acelerar~
+aceitar um batimento de tecla~
+aceder a programas remoteapp e ambientes de trabalho remotos~
+account~
+accounts~
+account protection~
+account accounts~
+access~
+accessibility~
+access keys~
+accent~
+acceleration~
+accelerate~
+accelerates~
+abrir~
+abrir as ligações~
+abrir aplicações remotamente~
+abre e reconhece o jogo~
+abra sempre num programa específico~
+abertos recentemente em listas de atalhos em início ou na barra de tarefas~
+abertos por cada aplicação~
+aad~
+a windows mixed reality~
+a voz~
+a voz do narrador~
+a visualização ou a velocidade do ponteiro do rato~
+a vista da lupa~
+a velocidade máxima do ponteiro do rato por teclado~
+a velocidade do ponteiro do rato~
+a velocidade do ponteiro do rato por teclado~
+a velocidade do cursor ao utilizar o touchpad~
+a velocidade de intermitência do cursor~
+a velocidade da voz do narrador~
+a utilizar com a windows mixed reality~
+a uma compilação anterior~
+a um ecrã sem fios~
+a tinta digital e o reconhecimento de escrita~
+a tecla do narrador está bloqueada~
+a tecla do logótipo do windows + c~
+a tecla de atalho inicie o narrador~
+a tecla caps lock, num lock ou scroll lock~
+a tampa~
+a sua voz~
+a sua palavra-passe~
+a sua imagem de conta~
+a sua empresa faça a gestão do seu pc~
+a sua cor de destaque~
+a sua conta~
+a roda do rato~
+a resposta visual da caneta~
+a resolução do ecrã~
+a reprodução automática para todos os suportes de dados e dispositivos~
+a rapidez de aceleração do ponteiro do rato por teclado~
+a ram existente no computador~
+a qualidade visual da windows mixed reality~
+a qualidade de reconhecimento da escrita manual do seu pc.~
+a proteção de ecrã~
+a projetar~
+a programas remoteapp e ambientes de trabalho remotos~
+a profissional ou escolar~
+a primeira letra de uma frase com o teclado tátil~
+a primeira letra de cada frase em maiúsculas~
+a poupança de bateria~
+a posição ligada/desligada~
+a pastas~
+a partir de onde instalar aplicações~
+a partir da rede~
+a otimização do desempenho na realidade mista~
+a orientação do ecrã~
+a ordem que o narrador utiliza para ler o contexto de botões e outros controlos~
+a mão esquerda~
+a mão direita ou a mão esquerda~
+a moeda é mostrada~
+a minha caneta~
+a lupa~
+a lupa segue o narrador~
+a lupa automaticamente após o início de sessão~
+a lupa acompanha o ponto de inserção de texto~
+a lupa acompanha o foco do teclado~
+a lupa acompanha o foco do narrador~
+a luminosidade quando a iluminação se altera~
+a luminosidade do conteúdo sdr~
+a lista de idiomas~
+a lista de aplicações no menu iniciar~
+a linha de comandos pelo windows powershell ao utilizar windows + menu x~
+a janela da lupa para ícone de lupa transparente~
+a interação de controlos e botões~
+a indicação de toque maior~
+a impressora predefinida~
+a imagem no ecrã de bloqueio~
+a iluminação se altera~
+a id do produto~
+a hora automaticamente~
+a home page~
+a gestão do seu pc~
+a forma de falar com a cortana~
+a forma de agrupar janelas semelhantes~
+a forma como o windows efetua pesquisas~
+a forma como o jogo é apresentado quando o difunde~
+a forma como o cursor é apresentado num ecrã de braille~
+a forma como o bing filtra conteúdos para adultos dos seus resultados de pesquisa~
+a forma como as páginas web são mostradas em separadores~
+a forma como as medidas são mostradas~
+a forma como as datas e as listas são mostradas~
+a forma como a moeda é mostrada~
+a forma como a barra de jogo se abre e reconhece o jogo~
+a falar~
+a este dispositivo~
+a espessura do cursor~
+a duração da bateria~
+a duração da apresentação das notificações~
+a distância deslocada com a roda do rato~
+a direção de deslocamento do touchpad e o comportamento do zoom~
+a deteção de dispositivos~
+a data e hora~
+a câmara para criar uma imagem de conta~
+a cortana~
+a cortana premindo a tecla do logótipo do windows + c~
+a cortana me consegue ouvir.~
+a cortana dizendo "olá cortana"~
+a cortana consegue ouvir~
+a cortana consegue fazer, ver e utilizar~
+a cor do ponteiro do rato~
+a cor do ecrã~
+a conclusão automática no internet explorer~
+a caneta ou por toque~
+a barra de tarefas~
+a barra de tarefas no modo de tablet~
+a barra de tarefas em vários ecrãs~
+a barra de tarefas em todos os ecrãs~
+a barra de tarefas e o centro de ação transparentes~
+a barra de jogo se abre e reconhece o jogo~
+a atualizar~
+a apresentação de diapositivos do ecrã de bloqueio~
+a aplicação predefinida para cada protocolo~
+a aplicação está desfocada~
+a aplicação de controlo do windows seja executada para melhorar os resultados da pesquisa e de início~
+a afetar a duração da bateria~
+90hz~
+90 hz~
+8~
+8.1~
+7~
+64 bits~
+64 bits)~
+60hz~
+60 hz~
+4g~
+3g~
+3d~
+3d estereoscópico~
+32 ou 64 bits~
+32 bits)~
+2g~
+1~
+16 bits~
+ ícone~
+ ícones~
+ voz~
+ voice~
+ visualização visualizações~
+ unjoin~
+ typing~
+ two finger~
+ tts~
+ tpm clear~
+ tocar~
+ tinta digital~
+ text-to-speech~
+ text texts~
+ task~
+ tasks~
+ tarefa~
+ tarefas~
+ tabuleiro~
+ sso~
+ sms~
+ site sites~
+ sistema~
+ seguir rato~
+ seguir foco~
+ sair~
+ resume your activities~
+ repor~
+ remover~
+ rcs~
+ rcse~
+ pré-visualização~
+ pré-visualizar~
+ proteção de e-mail~
+ privacy~
+ privacidade~
+ preview~
+ portal~
+ pin pins~
+ pessoas~
+ people~
+ peek~
+ passaporte~
+ organização~
+ olá, cortana~
+ notificação~
+ mover~
+ monitor monitores~
+ mms~
+ message messages~
+ mensagem sms mensagens sms~
+ mensagem mensagens~
+ loja~
+ linha cronológica~
+ ligação ligações~
+ leave~
+ inking~
+ iniciar o narrador~
+ ignorar~
+ histórico~
+ history~
+ group~
+ gesture~
+ função funções~
+ falar~
+ escrita~
+ escrever~
+ enable~
+ empresarial~
+ eliminar~
+ ecrã ecrãs~
+ domínio domínios~
+ domain domains~
+ distintivos~
+ deteção de atividade~
+ desktop~
+ criar distintivos~
+ correio~
+ converter texto em voz~
+ conversão de texto em voz~
+ conta contas~
+ connect connection~
+ compromisso compromissos~
+ combine~
+ combinar~
+ cara caras~
+ calendário calendários~
+ calendar calendars~
+ button~
+ buttons~
+ botões~
+ botão~
+ badging~
+ badges~
+ atualização atualizações~
+ atividade~
+ atividades~
+ app~
+ apps~
+ appointment appointments~
+ aplicações~
+ aplicação~
+ aplicação aplicações~
+ ambiente de trabalho~
+ alterar~
+ agrupar~
+ adulto adultos~
+ adicionar~
+ activity~
+ activity detection~
+ activities~

@@ -1,0 +1,108 @@
+[18988:28788:1102/175113.738:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[18988:28788:1102/175113.743:VERBOSE1:crash_service.cc(172)] window handle is 000312EC
+[18988:28788:1102/175113.743:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[18988:28788:1102/175113.743:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[18988:28788:1102/175113.744:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[18988:28788:1102/175113.744:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[18988:28788:1102/175113.745:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[18988:28788:1102/175113.745:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[33892:6888:1102/175151.791:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[33892:6888:1102/175151.794:VERBOSE1:crash_service.cc(172)] window handle is 00030280
+[33892:6888:1102/175151.794:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[33892:6888:1102/175151.794:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[33892:6888:1102/175151.794:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[33892:6888:1102/175151.794:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[33892:6888:1102/175151.795:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[33892:6888:1102/175151.795:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[1224:1324:1103/150426.622:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[1224:1324:1103/150426.712:VERBOSE1:crash_service.cc(172)] window handle is 00020592
+[1224:1324:1103/150426.713:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[1224:1324:1103/150426.713:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[1224:1324:1103/150426.714:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[1224:1324:1103/150426.714:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[1224:1324:1103/150426.715:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[1224:1324:1103/150426.715:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[28944:5000:1103/150453.236:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[28944:5000:1103/150453.241:VERBOSE1:crash_service.cc(172)] window handle is 0003059E
+[28944:5000:1103/150453.241:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[28944:5000:1103/150453.241:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[28944:5000:1103/150453.241:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[28944:5000:1103/150453.241:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[28944:5000:1103/150453.241:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[28944:5000:1103/150453.241:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[4900:16452:1104/155111.714:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[4900:16452:1104/155111.918:VERBOSE1:crash_service.cc(172)] window handle is 0016057E
+[4900:16452:1104/155111.919:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[4900:16452:1104/155111.919:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[4900:16452:1104/155111.919:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[4900:16452:1104/155111.920:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[4900:16452:1104/155111.920:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[4900:16452:1104/155111.921:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[32572:12884:1104/155143.161:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[32572:12884:1104/155143.165:VERBOSE1:crash_service.cc(172)] window handle is 00020776
+[32572:12884:1104/155143.165:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[32572:12884:1104/155143.165:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[32572:12884:1104/155143.165:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[32572:12884:1104/155143.165:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[32572:12884:1104/155143.165:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[32572:12884:1104/155143.166:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[9852:13868:1105/082429.333:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[9852:13868:1105/082429.680:VERBOSE1:crash_service.cc(172)] window handle is 00010516
+[9852:13868:1105/082429.680:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[9852:13868:1105/082429.680:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[9852:13868:1105/082429.680:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[9852:13868:1105/082429.681:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[9852:13868:1105/082429.681:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[9852:13868:1105/082429.681:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[13220:14652:1105/082453.151:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[13220:14652:1105/082453.157:VERBOSE1:crash_service.cc(172)] window handle is 00020504
+[13220:14652:1105/082453.157:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[13220:14652:1105/082453.157:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[13220:14652:1105/082453.158:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[13220:14652:1105/082453.158:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[13220:14652:1105/082453.159:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[13220:14652:1105/082453.159:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[13948:30332:1105/093411.733:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=http://crash.discordapp.com:1127/post --application-name=Discord --v=1 --submit-backlog --crashes-directory="C:\Users\andre\AppData\Local\Temp\Discord Crashes"]
+[13948:30332:1105/093411.741:VERBOSE1:crash_service.cc(172)] window handle is 000A0D3C
+[13948:30332:1105/093411.741:VERBOSE1:crash_service.cc(318)] pipe name is \\.\pipe\Discord Crash Service
+dumps at C:\Users\andre\AppData\Local\Temp\Discord Crashes
+[13948:30332:1105/093411.741:VERBOSE1:crash_service.cc(322)] checkpoint is C:\Users\andre\AppData\Local\Temp\Discord Crashes\crash_checkpoint.txt
+server is http://crash.discordapp.com:1127/post
+maximum 128 reports/day
+reporter is Discord-crash-service
+[13948:30332:1105/093411.741:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[13948:30332:1105/093411.741:VERBOSE1:crash_service.cc(517)] submitting backlogged crashes... 
+[13948:30332:1105/093411.741:VERBOSE1:crash_service.cc(557)] finished submitting backlog; exiting
+[13948:30332:1105/093411.741:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0

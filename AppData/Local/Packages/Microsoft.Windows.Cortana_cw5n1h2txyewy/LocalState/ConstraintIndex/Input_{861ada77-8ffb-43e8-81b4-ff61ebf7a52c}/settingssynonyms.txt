@@ -1,0 +1,580 @@
+*|about your pc	*|system properties	3647
+*|about your pc	*|operating system	4368
+*|about your pc	*|about windows	5083
+*|about your pc	*|about pc	4354
+*|about your pc	*|pc info	3484
+*|about your pc	*|sytem	5305
+*|activation	*|activate windows	4115
+*|add or remove devices	*|add device	1302
+*|add or remove programs	*|add remove programs	5715
+*|add or remove programs	*|add and remove	5897
+*|add or remove programs	*|applications	6060
+*|add or remove programs	*|programmes	4654
+*|add or remove programs	*|remove app	7146
+*|add or remove programs	*|addremove	6204
+*|add or remove programs	*|shut down	4563
+*|add or remove programs	*|uninstall	4422
+*|add or remove programs	*|unistall	4025
+*|add or remove programs	*|delete	4436
+*|add or remove programs	*|apps	5350
+*|add, edit or remove other people	*|users	451
+*|add, edit or remove other users	*|add user	2632
+*|add, edit, or remove other people	*|add user	1493
+*|add, edit, or remove other people	*|users	768
+*|add, edit, or remove other users	*|add user	2606
+*|add, edit, or remove other users	*|account	2742
+*|adjust system volume	*|volume control	5419
+*|adjust system volume	*|volume mixer	4766
+*|adjust system volume	*|sound mixer	5371
+*|adjust system volume	*|no sound	5961
+*|adjust system volume	*|speakers	3415
+*|adjust system volume	*|mixer	4021
+*|adjust the brightness level of the display	*|adjust brightness	6190
+*|administrative tools	*|administrator	5055
+*|administrative tools	*|system tools	3464
+*|administrative tools	*|admin tools	5092
+*|administrative tools	*|dhcp	4713
+*|advanced printer setup	*|add a printer	429
+*|advanced printer setup	*|find printer	1052
+*|advanced windows update options	*|updates	2284
+*|airplane mode	*|bluetooth	268
+*|airplane mode	*|wifi	3088
+*|allow remote access to your computer	*|remote settings	2517
+*|allow remote access to your computer	*|remote desktop	3308
+*|apps & features	*|uninstall apps	4972
+*|apps & features	*|add remove	5004
+*|apps & features	*|shut down	5057
+*|apps & features	*|apps and	4064
+*|apps & features	*|remove	4161
+*|apps & features	*|prog	5016
+*|apps & features	*|unis	4656
+*|autoplay	*|dvd	1
+*|autoplay settings	*|cd drive	2949
+*|autoplay settings	*|dvd	1965
+*|back up and restore (windows 7)	*|backup	1511
+*|backup and restore (windows 7)	*|windows backup	3827
+*|backup settings	*|windows backup	4446
+*|backup settings	*|file history	1906
+*|backup settings	*|system image	3841
+*|backup settings	*|back up	2350
+*|block or allow pop-ups	*|internet options	2700
+*|block or allow pop-ups	*|pop up blocker	2906
+*|block or allow pop-ups	*|pop ups	2813
+*|block or allow pop-ups	*|popup	2900
+*|bluetooth settings	*|blue tooth	6210
+*|bluetooth settings	*|bluettoth	7521
+*|bluetooth settings	*|bluetooh	7271
+*|bluetooth settings	*|bluetoth	6881
+*|bluetooth settings	*|blutooth	6365
+*|bluetooth settings	*|blueth	7346
+*|bluetooth settings	*|bllue	7484
+*|bluetooth settings	*|bloot	7002
+*|bluetooth settings	*|bluee	7174
+*|bluetooth settings	*|bluel	7211
+*|bluetooth settings	*|blur	6215
+*|bluetooth settings	*|bluw	6796
+*|bluetooth settings	*|pair	7201
+*|bluetooth settings	*|ble	6279
+*|bluetooth settings	*|bli	6751
+*|bluetooth settings	*|bue	6657
+*|calibrate display color	*|gamma	1858
+*|calibrate the screen for pen or touch input	*|touch screen	2362
+*|camera privacy settings	*|web cam	2543
+*|camera privacy settings	*|webcam	532
+*|change advanced start-up options	*|safe mode	1779
+*|change advanced start-up options	*|bios	946
+*|change advanced start-up options	*|boot	1331
+*|change advanced start-up options	*|uefi	3098
+*|change advanced startup options	*|safe mode	1832
+*|change advanced startup options	*|restart	1769
+*|change advanced startup options	*|bios	979
+*|change advanced startup options	*|boot	1459
+*|change default printer	*|find printer	3145
+*|change device encryption settings	*|bitlocker	1
+*|change ethernet settings	*|lan settings	2610
+*|change ethernet settings	*|ip address	1420
+*|change or remove a program	*|uninstall a program	5658
+*|change or remove a program	*|uninstall programs	6845
+*|change or remove a program	*|remove programs	6781
+*|change or remove a program	*|add or remove	6073
+*|change or remove a program	*|program files	5812
+*|change or remove a program	*|programmes	6776
+*|change or remove a program	*|unisntall	7152
+*|change or remove a program	*|uinstall	6962
+*|change or remove a program	*|unintall	7038
+*|change or remove a program	*|unistall	3670
+*|change or remove a program	*|install	5857
+*|change or remove a program	*|add re	6431
+*|change or remove a program	*|unnin	7148
+*|change screen saver	*|screensaver	2208
+*|change search options for files and folders	*|folder options	1
+*|change settings for multiple displays	*|duplicate	3043
+*|change settings for multiple displays	*|monitors	3071
+*|change settings for multiple displays	*|extend	2460
+*|change sound card settings	*|sound settings	2697
+*|change sound card settings	*|soundcard	3292
+*|change temporary internet file settings	*|internet settings	1137
+*|change text-to-speech settings	*|text to speech	838
+*|change the date and time	*|time and date	3546
+*|change the date and time	*|change date	3179
+*|change the date and time	*|change time	2831
+*|change the date and time	*|clock	2350
+*|change the mouse pointer display or speed	*|mouse speed	1199
+*|change the mouse pointer display or speed	*|cursor	1917
+*|change the picture on your lock screen	*|wallpaper	373
+*|change the screen orientation	*|rotate screen	2290
+*|change the screen resolution	*|screen size	5213
+*|change the screen resolution	*|display	4019
+*|change the size of apps on the screen	*|screen size	2390
+*|change the size of apps on the screen	*|scaling	796
+*|change the size of apps on the screen	*|dpi	2225
+*|change the theme	*|themes	1639
+*|change user account control settings	*|user control	4973
+*|change user account control settings	*|permissions	4468
+*|change user account control settings	*|uac	257
+*|change what closing the lid does	*|close lid	2436
+*|change when the pc sleeps	*|sleep mode	4156
+*|change wi-fi settings	*|wifi settings	4867
+*|change wi-fi settings	*|wireless	2895
+*|change wi-fi settings	*|metered	4552
+*|change wi-fi settings	*|wi fi	3371
+*|change wifi settings	*|network discovery	5271
+*|change wifi settings	*|connect to wifi	5346
+*|change wifi settings	*|wireless	3599
+*|change wifi settings	*|wi fi	3636
+*|change wifi settings	*|wi-fi	4732
+*|change your country or region	*|location	700
+*|change your homepage	*|home page	1343
+*|change your mouse settings	*|mouse properties	4588
+*|change your mouse settings	*|change mouse	3847
+*|change your mouse settings	*|mosue	4667
+*|change your mouse settings	*|mice	4242
+*|change your mouse settings	*|mose	4476
+*|change your password	*|change password	2286
+*|check firewall status	*|virus	3612
+*|check for updates	*|update and security	7211
+*|check for updates	*|windows 10 update	8038
+*|check for updates	*|windows updates	3914
+*|check for updates	*|update windows	7336
+*|check for updates	*|check updates	7671
+*|check for updates	*|window update	6907
+*|check for updates	*|windowsupdate	7112
+*|check for updates	*|system up	8107
+*|check for updates	*|up dates	7910
+*|check for updates	*|drivers	7780
+*|check for updates	*|updater	7456
+*|check for updates	*|updatre	8175
+*|check for updates	*|uodate	7630
+*|check for updates	*|updare	8045
+*|check for updates	*|updatw	7844
+*|check for updates	*|upate	8025
+*|check for updates	*|updae	7059
+*|check for updates	*|updte	8103
+*|check for updates	*|upo	8117
+*|check for updates	*|upp	7336
+*|check security status	*|antivirus	2796
+*|check security status	*|virus	2220
+*|choose a default app for each type of file	*|file types	1923
+*|choose a default app for each type of file	*|file asso	2191
+*|choose a default photo viewer	*|photos	1120
+*|choose a default web browser	*|default browser	1691
+*|choose a power plan	*|power saving	2806
+*|choose background, slideshow or solid colour as your background mode	*|desktop background	3285
+*|choose background, slideshow or solid colour as your background mode	*|wallpaper	957
+*|choose background, slideshow, or solid color as your background mode	*|wallpaper	835
+*|choose background, slideshow, or solid color as your background mode	*|desktop	2308
+*|choose when to turn off the screen on battery power	*|power off	1
+*|choose which apps can run in the background	*|background apps	412
+*|choose which folders appear on start	*|start menu	1
+*|clear disk space by deleting unnecessary files	*|disc clean up	3066
+*|clear disk space by deleting unnecessary files	*|disc cleanup	2146
+*|clear disk space by deleting unnecessary files	*|clean up	3245
+*|clear disk space by deleting unnecessary files	*|free up	2995
+*|colour management	*|color	1491
+*|configure proxy server	*|dns	1109
+*|connect to the internet	*|connect to internet	2312
+*|connect to work or school	*|domain	271
+*|connect to work or school	*|azure	1437
+*|connected device settings	*|printer settings	3921
+*|connected device settings	*|add a printer	4162
+*|connected device settings	*|print spooler	4411
+*|connected device settings	*|printer queue	4557
+*|connected device settings	*|find printer	4252
+*|connected device settings	*|headphones	4582
+*|connected device settings	*|projector	5054
+*|connected device settings	*|printers	2933
+*|connected device settings	*|devices	2796
+*|connected device settings	*|drives	3972
+*|connected device settings	*|usb	1592
+*|cortana & search settings	*|cortana settings	4360
+*|cortana & search settings	*|turn cortana off	5126
+*|cortana & search settings	*|turn off cortana	3762
+*|cortana & search settings	*|disable cortana	3930
+*|cortana & search settings	*|hey	3753
+*|create a recovery drive	*|create recovery drive	5031
+*|create a recovery drive	*|restore	5247
+*|create a restore point	*|create restore point	5029
+*|create a restore point	*|system restore point	5973
+*|create a restore point	*|system protection	5143
+*|create a restore point	*|recovery	5806
+*|create and format hard disk partitions	*|disc management	5141
+*|create and format hard disk partitions	*|disk management	2285
+*|create and format hard disk partitions	*|disk managment	4859
+*|create and format hard disk partitions	*|disk manager	3327
+*|create and format hard disk partitions	*|disk utility	5776
+*|create and format hard disk partitions	*|hard drive	5757
+*|create and format hard disk partitions	*|diskmgmt	4557
+*|create and format hard disk partitions	*|diskman	5509
+*|create and format hard disk partitions	*|dsk	5592
+*|credential manager	*|credentials	3879
+*|date & time settings	*|change time	3641
+*|date & time settings	*|set time	3156
+*|date and time	*|time and	2811
+*|default app settings	*|default apps	1529
+*|default app settings	*|defaults	3302
+*|default app settings	*|apps	2796
+*|delete browsing history	*|internet history	4946
+*|delete browsing history	*|delete history	3833
+*|delete browsing history	*|clear history	4426
+*|delete browsing history	*|browser	4869
+*|delete cookies or temporary files	*|clear cookies	4196
+*|delete cookies or temporary files	*|temp files	5145
+*|device manager	*|device manger	6931
+*|device manager	*|devicemanager	7258
+*|device manager	*|graphics card	6605
+*|device manager	*|dvd player	6745
+*|device manager	*|my devices	7936
+*|device manager	*|device mn	7831
+*|device manager	*|cd drive	7644
+*|device manager	*|hardware	5049
+*|device manager	*|dev man	7457
+*|device manager	*|devicee	7428
+*|device manager	*|devices	5353
+*|device manager	*|devmgmt	6486
+*|device manager	*|drivers	5525
+*|device manager	*|sd card	6767
+*|device manager	*|devicd	7674
+*|device manager	*|devicw	7125
+*|device manager	*|devide	7329
+*|device manager	*|devise	6341
+*|device manager	*|devive	6783
+*|device manager	*|devoce	7440
+*|device manager	*|devuce	7368
+*|device manager	*|divice	6297
+*|device manager	*|devce	6930
+*|device manager	*|devie	6073
+*|device manager	*|dvice	7592
+*|device manager	*|deci	7354
+*|device manager	*|deiv	7394
+*|device manager	*|devv	7849
+*|device manager	*|dive	7367
+*|device manager	*|usb	5437
+*|devices and printers	*|printers and devices	7124
+*|devices and printers	*|device and printers	7350
+*|devices and printers	*|connect to printer	8321
+*|devices and printers	*|printer driver	7914
+*|devices and printers	*|add printer	4950
+*|devices and printers	*|printer and	8083
+*|devices and printers	*|printeer	7739
+*|devices and printers	*|printere	7639
+*|devices and printers	*|printerr	7584
+*|devices and printers	*|deviced	8085
+*|devices and printers	*|primter	8290
+*|devices and printers	*|printwe	8171
+*|devices and printers	*|pritner	7633
+*|devices and printers	*|ptinter	8259
+*|devices and printers	*|devics	8298
+*|devices and printers	*|pinter	7567
+*|devices and printers	*|priner	6772
+*|devices and printers	*|prinet	7219
+*|devices and printers	*|printr	6377
+*|devices and printers	*|priter	7226
+*|devices and printers	*|prnter	7832
+*|devices and printers	*|devis	8055
+*|devices and printers	*|prinr	7660
+*|devices and printers	*|priny	7629
+*|devices and printers	*|dec	7968
+*|devices and printers	*|div	7463
+*|devices and printers	*|prr	7672
+*|display	*|desktop	2501
+*|display settings	*|screen brightness	5025
+*|display settings	*|brightness	3077
+*|display settings	*|resolution	5488
+*|display settings	*|dispaly	5746
+*|display settings	*|displau	6160
+*|display settings	*|disply	5763
+*|display settings	*|dpi	5012
+*|edit group policy	*|local group	3553
+*|edit group policy	*|gpedit.	4377
+*|edit language and keyboard options	*|keyboard language	4261
+*|edit language and keyboard options	*|keyboards	4633
+*|edit language and keyboard options	*|languages	3845
+*|edit power plan	*|power sett	3013
+*|edit the system environment variables	*|path	2324
+*|enable or disable session cookies	*|enable cookies	1242
+*|file explorer options	*|folder options	1653
+*|file explorer options	*|quick access	3474
+*|file history settings	*|back up	2395
+*|file history settings	*|backup	1438
+*|find and fix audio playback problems	*|sound	1702
+*|find and fix audio recording problems	*|microphone	316
+*|find and fix printing problems	*|spooler	1876
+*|find and fix problems	*|troubleshooting	1692
+*|find and fix problems	*|troubleshooter	2410
+*|find and fix problems with devices	*|hardware	627
+*|find and fix problems with devices	*|speakers	764
+*|fix problems with your computer	*|windows repair	2698
+*|fix problems with your computer	*|repair	719
+*|flash player	*|adobe flash player	4201
+*|flight mode	*|bluetooth	283
+*|flight mode	*|wifi	2879
+*|free up disk space by deleting unnecessary files	*|disc cleanup	1945
+*|free up disk space by deleting unnecessary files	*|clean up	2126
+*|get pc support info	*|help	1
+*|go back to an earlier build	*|system res	2240
+*|go back to an earlier build	*|restore	436
+*|homegroup	*|file sharing	4472
+*|homegroup	*|home group	4192
+*|identify and repair network problems	*|network troubleshooter	1577
+*|identify and repair network problems	*|wifi	1014
+*|internet options	*|internet connection	4786
+*|internet options	*|internet settings	4609
+*|internet options	*|tools	4361
+*|invite someone to connect to your pc and help you, or offer to help someone else	*|remote assistance	1549
+*|language	*|languages	3847
+*|location privacy settings	*|gps	3110
+*|lock screen settings	*|screen lock	3616
+*|magnifier settings	*|zoom	81
+*|make text and other items larger or smaller	*|font size	1190
+*|make text and other items larger or smaller	*|text size	1269
+*|manage advanced sharing settings	*|share	1673
+*|manage audio devices	*|headphones	4272
+*|manage audio devices	*|headset	5596
+*|manage audio devices	*|speaker	2938
+*|manage audio devices	*|sound	2878
+*|manage browser add-ons	*|add ons	1
+*|manage computer certificates	*|certmgr	2574
+*|manage your account	*|microsoft account	2413
+*|mouse	*|pointers	4867
+*|mouse & touchpad settings	*|mouse settings	5852
+*|mouse & touchpad settings	*|mouse and	5714
+*|mouse & touchpad settings	*|mouse sen	6220
+*|mouse & touchpad settings	*|synaptics	5265
+*|mouse & touchpad settings	*|touch pad	5509
+*|mouse & touchpad settings	*|trackpad	4428
+*|mouse & touchpad settings	*|elan	6198
+*|mouse & touchpad settings	*|sens	6040
+*|network and sharing center	*|network sharing	5224
+*|network and sharing centre	*|network sharing	4435
+*|network and sharing centre	*|adapter	4977
+*|network proxy settings	*|network settings	2642
+*|network status	*|internet connection	1
+*|nvidia control panel	*|nivi	5307
+*|pen settings	*|ink	2663
+*|perform recommended maintenance tasks automatically	*|defrag	1088
+*|play cds or other media automatically	*|dvd	626
+*|power & sleep settings	*|power management	4930
+*|power & sleep settings	*|power settings	3229
+*|power & sleep settings	*|power options	4622
+*|power & sleep settings	*|power button	5591
+*|power & sleep settings	*|power saving	5357
+*|power & sleep settings	*|hibernate	3674
+*|power & sleep settings	*|power and	5413
+*|power & sleep settings	*|battery	4326
+*|power options	*|power button	5912
+*|power options	*|energy	4560
+*|power options	*|fast	6178
+*|press one key at a time for keyboard shortcuts	*|sticky keys	1
+*|printers & scanners	*|install printer	5879
+*|printers & scanners	*|add printer	4420
+*|printers & scanners	*|printing	5433
+*|printers & scanners	*|scanning	6186
+*|programs and features	*|program and	6320
+*|programs and features	*|uninstaller	6542
+*|programs and features	*|programmes	6632
+*|programs and features	*|programes	7063
+*|programs and features	*|install	5326
+*|programs and features	*|progras	7169
+*|programs and features	*|progam	7106
+*|programs and features	*|progrm	6110
+*|programs and features	*|remove	6522
+*|programs and features	*|pror	6706
+*|programs and features	*|add	6349
+*|programs and features	*|prg	6417
+*|project to a second screen	*|projector	2856
+*|project to a second screen	*|display	3255
+*|project to a second screen	*|mirror	4302
+*|project to a second screen	*|dual	4668
+*|projecting to this pc	*|miracast	411
+*|recovery	*|system recovery	4540
+*|recovery	*|windows restore	4440
+*|recovery	*|system restor	4133
+*|recovery	*|restore	1360
+*|recovery options	*|recovery manager	4456
+*|recovery options	*|update and	3625
+*|region & language settings	*|regional	3029
+*|reset this pc	*|factory settings	5825
+*|reset this pc	*|system restore	2161
+*|reset this pc	*|factory reset	4307
+*|reset this pc	*|restore point	5436
+*|reset this pc	*|system reset	5740
+*|reset this pc	*|reinstall	4693
+*|reset this pc	*|recovery	4367
+*|reset this pc	*|reset pc	5473
+*|reset this pc	*|rollback	5870
+*|reset this pc	*|refresh	3970
+*|run programs made for previous versions of windows	*|compatibility	2670
+*|scan for malware and other potentially unwanted software	*|virus	1880
+*|scan for malware and other potentially unwanted software	*|anti	3381
+*|schedule tasks	*|scheduled	1761
+*|security and maintenance	*|action center	3267
+*|security and maintenance	*|action centre	3802
+*|see if windows is activated	*|activate windows	3217
+*|see if windows is activated	*|activation	2428
+*|see if windows is activated	*|windows ac	3725
+*|see if you have a 32-bit or 64-bit version of windows	*|windows version	1069
+*|see if you have a 32-bit or 64-bit version of windows	*|64 bit	2460
+*|see if you have a 32-bit or 64-bit version of windows	*|intel	2481
+*|see which processes start up automatically when you start windows	*|start up programs	4822
+*|see which processes start up automatically when you start windows	*|startup programs	4755
+*|see which processes start up automatically when you start windows	*|msconfig	3849
+*|see which processes start up automatically when you start windows	*|start-up	5193
+*|see which processes start up automatically when you start windows	*|starup	5280
+*|set the time automatically	*|clock	951
+*|set up a connection or network	*|wireless	770
+*|set up a microphone	*|set up mic	4417
+*|set up face sign-in	*|windows hello	1290
+*|set up face sign-in	*|hello	425
+*|set up fingerprint sign-in	*|windows hello	3229
+*|set up fingerprint sign-in	*|hello	2533
+*|set up pin sign-in	*|change pin	2193
+*|set up usb game controllers	*|joystick	3692
+*|show me tips about windows	*|help	1
+*|show or hide common icons on the desktop	*|desktop icons	1800
+*|show or hide common icons on the desktop	*|show desktop	3896
+*|show or hide common icons on the desktop	*|recycle bin	2471
+*|sign-in options	*|change password	3735
+*|sign-in options	*|sign in options	4093
+*|sign-in options	*|password	1599
+*|sign-in options	*|log in	3270
+*|sign-in options	*|login	2008
+*|sound	*|audio settings	7069
+*|sound	*|equaliser	6981
+*|sound	*|equalizer	6561
+*|sound	*|playback	6877
+*|sound	*|sounds	6803
+*|sound	*|soudn	6835
+*|sound	*|sounf	6489
+*|sound	*|souns	6686
+*|sound	*|speak	7111
+*|sound	*|bass	6587
+*|sound	*|sund	7007
+*|sound	*|soi	7023
+*|start settings	*|start menu	2075
+*|start settings	*|menu	3823
+*|storage	*|recycle bin	2209
+*|storage	*|disk drive	4969
+*|storage	*|disk space	4216
+*|storage	*|hard drive	3539
+*|storage	*|drives	4614
+*|storage	*|space	5080
+*|storage	*|trash	3651
+*|storage	*|temp	4808
+*|storage	*|bin	3257
+*|system	*|computer properties	5729
+*|system	*|system properties	5963
+*|system	*|windows system	5698
+*|system	*|performance	5890
+*|system	*|hardware	4836
+*|system	*|sysinfo	5324
+*|system	*|syste,	5584
+*|system	*|systen	5973
+*|system	*|about	5034
+*|system	*|sytem	5536
+*|taskbar and navigation	*|task bar	1616
+*|taskbar settings	*|task bar	1619
+*|themes and related settings	*|desktop icon	2168
+*|troubleshooting	*|troubleshooter	3926
+*|troubleshooting	*|trob	5454
+*|troubleshooting	*|fix	5519
+*|turn autoplay on or off	*|dvd	1057
+*|turn magnifier on or off	*|zoom	319
+*|turn on easy access keys	*|sticky keys	1
+*|turn screen saver on or off	*|screensaver	1806
+*|turn smartscreen filter on or off for apps	*|smart screen	1767
+*|turn windows features on or off	*|hyper v	3787
+*|turn windows features on or off	*|hyper-v	3469
+*|turn windows features on or off	*|turn on	4609
+*|turn windows features on or off	*|hyperv	4473
+*|turn windows features on or off	*|telnet	3953
+*|turn wireless devices on or off	*|wi-fi	4388
+*|turn wireless devices on or off	*|wifi	676
+*|turn wireless devices on or off	*|nfc	3847
+*|update device drivers	*|device manager	2187
+*|update device drivers	*|update drivers	4058
+*|update device drivers	*|canon printer	5644
+*|update device drivers	*|device manger	5074
+*|update device drivers	*|driver update	5147
+*|update device drivers	*|audio driver	5188
+*|update device drivers	*|graphics	5108
+*|update device drivers	*|hardware	5047
+*|update device drivers	*|d drive	5547
+*|update device drivers	*|devices	5607
+*|update device drivers	*|cannon	4429
+*|update device drivers	*|epson	4637
+*|update device drivers	*|usb	4347
+*|use developer features	*|developer mode	1
+*|use start full screen	*|start menu	940
+*|user accounts	*|change user	4676
+*|user accounts	*|add user	4410
+*|user accounts	*|new user	4866
+*|user accounts	*|password	5498
+*|user accounts	*|profiles	6019
+*|user accounts	*|acount	6084
+*|user accounts	*|guest	4355
+*|user accounts	*|share	6245
+*|user accounts	*|users	2121
+*|user accounts	*|uac	5209
+*|user accounts	*|usr	5960
+*|view advanced system settings	*|computer configuration	2781
+*|view advanced system settings	*|advanced settings	3811
+*|view event logs	*|windows log	3150
+*|view event logs	*|system log	2915
+*|view event logs	*|error	1932
+*|view installed updates	*|uninstall	3714
+*|view network connections	*|ncpa.cpl	4932
+*|view network connections	*|neto	5309
+*|view processor info	*|cpu	541
+*|view ram info	*|memory	1692
+*|view system resource usage in task manager	*|cpu	933
+*|view system resource usage in task manager	*|ram	2090
+*|view the name of the video card	*|graphics	613
+*|view your pc name	*|computer name	776
+*|view your product id	*|serial number	1557
+*|view your product id	*|product key	1303
+*|webcam privacy settings	*|web cam	3311
+*|windows defender settings	*|anti virus	4232
+*|windows defender settings	*|security	4551
+*|windows defender settings	*|virus	3491
+*|windows firewall	*|fire wall	6429
+*|windows firewall	*|firwall	6210
+*|windows firewall	*|fie	5961
+*|windows update settings	*|update and security	6673
+*|windows update settings	*|automatic updates	6373
+*|windows update settings	*|check for updates	6568
+*|windows update settings	*|microsoft updates	6321
+*|windows update settings	*|update  security	6573
+*|windows update settings	*|windows settings	6707
+*|windows update settings	*|windows updates	3993
+*|windows update settings	*|system update	5969
+*|windows update settings	*|window update	5589
+*|windows update settings	*|win update	6568
+*|windows update settings	*|windows 10	6458
+*|windows update settings	*|windows uo	6343
+*|windows update settings	*|software	6547
+*|windows update settings	*|updated	6602
+*|windows update settings	*|updates	2847
+*|windows update settings	*|upgrade	5228
+*|windows update settings	*|udate	6319
+*|windows update settings	*|updte	6183
+*|windows update settings	*|upa	6605
